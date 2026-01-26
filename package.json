@@ -10,7 +10,6 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
-
   },
   "dependencies": {
     "react": "^19.2.0",
@@ -33,4 +32,5 @@
     "vite": "^7.2.4"
   },
   "homepage": "https://YuanSue.github.io/my-react-app"
+
 }
