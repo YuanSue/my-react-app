@@ -1,0 +1,65 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* 容器 */
+.container {
+  padding: 20px;
+}
+
+/* Header 整體 */
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+/* 標題 */
+.title {
+  margin: 0 0 16px;
+  font-size: 2.5rem;
+}
+
+/* 導覽列 */
+.nav {
+  display: flex;
+  gap: 16px;
+}
+
+/* 導覽按鈕 */
+.nav-link {
+  font-size: 1.1rem;
+  padding: 8px 20px;
+  text-decoration: none;
+  border-radius: 6px;
+  background-color: #f2f2f2;
+  color: #333;
+  transition: all 0.2s ease;
+}
+
+.nav-link:hover {
+  background-color: #333;
+  color: #fff;
+}
+
+.nav-link.active {
+  background-color: #333;
+  color: #fff;
+}
+
+
+
+
+.content {
+  margin: 32px auto 0;
+  padding: 0 16px;
+  max-width: 1260px;
+  text-align: left;
+  /* background: #f2f2f2; */
+}
+
+
+
