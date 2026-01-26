@@ -1,4 +1,4 @@
-import { BrowserRouter, Link, useRoutes } from "react-router-dom";
+import { HashRouter, Link, useRoutes } from "react-router-dom";
 import jlptRoutes from "./routes/jlpt_rts";
 import "./App.css";
 
@@ -8,7 +8,7 @@ function AppRoutes() {
 
 function App() {
   return (
-    <BrowserRouter basename="/my-react-app">
+    <HashRouter>
       <div className="container">
         <header className="header">
           <h1 className="title">元蘇學習網</h1>
@@ -23,7 +23,7 @@ function App() {
           <AppRoutes />
         </main>
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
