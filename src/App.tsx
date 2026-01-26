@@ -8,7 +8,7 @@ function AppRoutes() {
 
 function App() {
   return (
-    <HashRouter basename="/my-react-app">
+    <HashRouter>
       <div className="container">
         <header className="header">
           <h1 className="title">元蘇學習網</h1>
