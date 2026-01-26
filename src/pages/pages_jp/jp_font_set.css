@@ -46,6 +46,11 @@
   margin: 0;
 }
 
+.jlpt-layout .bold-text {
+  font-weight: bold;
+  font-weight: 600;
+}
+
 .jlpt-layout .underline {
   text-decoration-line: underline;
   text-decoration-color: #8e8e90;
