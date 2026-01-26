@@ -1,3 +1,6 @@
+import OMOU from "../../component/tb_omou";
+import TASUKE from "../../component/tb_tasuke";
+
 export default function N4_251113() {
   return (
     <div className="font">
@@ -94,7 +97,41 @@ export default function N4_251113() {
               <li>結婚しています。</li>
               <li>已婚（結婚這個動作已完成，但狀態持續）</li>
           </li>
+        </ul>
+      <em>思う VS. 思っている</em>
+        <p><OMOU /></p>
+      <em>...助けがなくても...</em>
+          <ul className="no-list-style">
+          <li>意思👉 即使沒有幫助也…</li>
+          <li>N + が + なくても</li>
+          <li>這個 が 已經很明確告訴你 ▶ 前面一定是 名詞</li>
+          <li>因為：❌ 動詞不能直接接「が」✅ 名詞可以</li>
+          <li>如果用動詞，要改成這樣：助けなくても（即使不幫忙也…）</li>
+          <li>結構:動詞否定＋ても</li>
+          <em>為什麼原句用「名詞」比較好？</em>
+          <li>因為整句在強調的是：<span className="ptline">不需要男性的支援／依靠</span>，而不是某個人「幫不幫」這個動作</li>
+          <TASUKE />
+          </ul>
+      <em>自分で...</em>
+          <ul className="no-list-style">
+            <li>👉 靠自己、親自</li>
+            <li>で：手段／方式</li>
+            <li>例子對照：</li>
+            <li>バスで行く（搭公車去）</li>
+            <li>自分でやる（自己做）</li>
+          </ul>
 
+      <em>...のです 的功能</em>
+        <ul className="no-list-style">
+          <li>解釋理由: 表達強烈的心情／立場，帶一點「我就是這樣想」的感覺</li>
+          <li>比較：</li>
+          <li>バイクに乗りたい。</li>
+          <li>👉 我想騎機車。（單純陳述）</li>
+          <li>バイクに乗りたいのです。</li>
+          <li>👉 我是真的想騎機車（有我的理由／決心）</li>
+          <li>在這句話裡，語氣是：</li>
+          <li>帶點堅持、說明自己立場</li>
+        <li></li>
         </ul>
     </div>
   );
