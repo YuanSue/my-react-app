@@ -1,3 +1,4 @@
+import "./jp_font_set.css";
 import OMOU from "../../component/tb_omou";
 import TASUKE from "../../component/tb_tasuke";
 

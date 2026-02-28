@@ -1,4 +1,4 @@
-import "./jp_font_set.css";
+// import "./jp_font_set.css";
 
 export default function N4_251225() {
   return (

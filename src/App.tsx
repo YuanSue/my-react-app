@@ -1,9 +1,14 @@
 import { BrowserRouter, Link, useRoutes } from "react-router-dom";
 import jlptRoutes from "./routes/jlpt_rts";
+import EngRoutes from "./routes/Eng_rts";
 import "./App.css";
 
 function AppRoutes() {
-  return useRoutes([jlptRoutes]);
+  // 將所有路由規則合併到同一個陣列傳入
+  return useRoutes([
+    jlptRoutes, 
+    EngRoutes
+  ]);
 }
 
 function App() {
@@ -15,6 +20,7 @@ function App() {
 
           <nav className="nav">
             <Link to="/JLPT" className="nav-link">JLPT</Link>
+            <Link to="/Eng" className="nav-link">Eng</Link>
           </nav>
         </header>
 
