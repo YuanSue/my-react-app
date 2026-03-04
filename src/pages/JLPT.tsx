@@ -10,7 +10,8 @@ export default function JLPT() {
         <Link to="n4_1">N4_251113</Link> |{" "}
         <Link to="n4_2">N4_251225</Link> |{" "}
         <Link to="n3_1">N3_260115</Link> |{" "}
-        <Link to="n3_2">N3_260301</Link> 
+        <Link to="n3_2">N3_260301</Link> |{" "}
+        <Link to="n3t01">N3_t01</Link> 
       </nav>
 
       <hr />
