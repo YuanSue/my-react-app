@@ -1,4 +1,5 @@
 // import "./jp_font_set.css";
+import Node from "../../component/tb_node";
 
 export default function N4_251225() {
   return (
@@ -103,18 +104,69 @@ export default function N4_251225() {
       </ul>
     <em>お腹が空いていなくても...</em>
     <ul className="no-list-style">
-      <li>為何用"空いて"這個型態:
-          <ol className="no-list-style">
-          <li>原形是： 空く（すく）＝ 變空、肚子餓</li>
-          <li>這裡用的是：空いている → 空いていない → 空いていなくても</li>
-          <li>這裡用的是：空いている → 空いていない → 空いていなくても</li>
-          </ol>
-      </li>
+      <div style={{ lineHeight: '1.8' }}>
+      <div>🔹為何用"空いて"這個型態:</div>
+        <div style={{ paddingLeft: '2em' }}>
+        原形是： 空く（すく）＝ 變空、肚子餓 <br />
+        這裡用的是：空いている → 空いていない → 空いていなくても
+        </div>
+      </div>
 
+      <div style={{ lineHeight: '1.8' }}>
+        <div>🔹為什麼用「～ている」？</div>
+        <div style={{ paddingLeft: '2em' }}>
+          在日文裡：<br/>
+          お腹が空く = 「變成餓」(瞬間動作)<br/>
+          お腹が空いている =「現在處於餓的狀態」<br/>
+          這是結果狀態的ている用法。<br/>
+        </div>
+      </div>
 
+      <div style={{ lineHeight: '1.8' }}>
+        <div>🔹類似：</div>
+        <div style={{ paddingLeft: '2em' }}>
+          結婚する → 結婚している（已婚狀態）<br/>
+          知る → 知っている（知道的狀態）<br/>
+        </div>
+      </div>
+      <li>🔹所以：お腹が空いていない = 現在不是處於肚子餓的狀態</li>
+      <li>🔹如果說： お腹が空かない，那是「不會餓／沒有餓這個動作發生」，語氣不同。</li>
+      
+      <em>ケーキやアイスクリーム 能用「と」嗎？</em>
+        <li>不能直接替換。</li>
 
+      <div style={{ lineHeight: '1.8' }}>
+        <div>🔹や</div>
+        <div style={{ paddingLeft: '2em' }}>
+          表示「列舉例子，還有其他」
+          ケーキやアイスクリーム
+          = 蛋糕、冰淇淋之類的（還有其他甜點）
+        </div>
+      </div>
 
+      <div style={{ lineHeight: '1.8' }}>
+        <div>🔹と</div>
+        <div style={{ paddingLeft: '2em' }}>
+          ケーキとアイスクリーム = 蛋糕和冰淇淋（就這兩個）
+        </div>
+      </div>
+      <li>在這句裡，用 や 比較自然，因為是在舉例甜食。</li>
+      <li>如果改成： ケーキとアイスクリームを食べることがあります。</li>
+      <li>語法正確，但語感變成「吃這兩種」。</li>
     </ul>
+    <em>いなくても</em>
+    <li className="no-list-style">結構拆解： 空いていない + ても<br/>
+      ～なくても = 即使不～也～</li>
+
+    <em>ほかの国より量が少ないので</em>
+    <ul>
+      <li>ので = 表示原因 / 理由（客觀、說明式）</li>
+      <li>結構： A ので B = 因為 A，所以 B</li>
+    </ul>
+    
+    <Node/>
+
     </div>
+    
   );
 }
