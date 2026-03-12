@@ -1,5 +1,6 @@
-// import "./jp_font_set.css";
 import Node from "../../component/tb_node";
+// import Furi from "../../component/func_furi";
+// import "./jp_font_set.css";
 
 export default function N4_251225() {
   return (
