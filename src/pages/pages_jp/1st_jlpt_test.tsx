@@ -7,7 +7,7 @@ export default function N3_t01() {
       <h3>第一回JLPT 試題review</h3>
       <ul className="no-list-style">
         <li>来月、旅行に行くので、お金を <Furi kanji="節約" kana="せつやく" />する。</li>
-        <li>彼はいつも <ruby>個性<rt>こせい</rt></ruby> 的な服を着ている。</li>
+        <li>彼はいつも <Furi kanji="個性" kana="こせい" />的な服を着ている。</li>
         <li>朝はテレビで天気 <ruby>予報<rt>よほう</rt></ruby> を見ます。</li>
         <li>徒歩<ruby><rt>とほ</rt></ruby> で学校に行きます。</li>
         <li>大野さんは学校で <ruby>常<rt>つね</rt></ruby> に成績が一番だ。</li>
