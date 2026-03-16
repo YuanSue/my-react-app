@@ -8,11 +8,11 @@ export default function N3_t01() {
       <ul className="no-list-style">
         <li>来月、旅行に行くので、お金を <Furi kanji="節約" kana="せつやく" />する。</li>
         <li>彼はいつも <Furi kanji="個性" kana="こせい" />的な服を着ている。</li>
-        <li>朝はテレビで天気 <ruby>予報<rt>よほう</rt></ruby> を見ます。</li>
-        <li>徒歩<ruby><rt>とほ</rt></ruby> で学校に行きます。</li>
-        <li>大野さんは学校で <ruby>常<rt>つね</rt></ruby> に成績が一番だ。</li>
+        <li>朝はテレビで天気 <Furi kanji="予報" kana="よほう" />を見ます。</li>
+        <li><Furi kanji="徒歩" kana="とほ" />で学校に行きます。</li>
+        <li>大野さんは学校で<Furi kanji="常" kana="つね" />に成績が一番だ。</li>
         <li>シャツのボタンが <ruby>外れる<rt>はずれる</rt></ruby>。</li>
-        <li>昨夜の火事のことが今朝の<ruby>記事</ruby><rt>きじ</rt>に載っていた。</li>
+        <li>昨夜の火事のことが今朝の<Furi kanji="記事" kana="きじ" />に載っていた。</li>
         <li>誰が一番早く走れるかを <ruby>争う<rt>あらそう</rt></ruby>。</li>
         <li>ショッピングに <ruby>夢中<rt>むちゅう</rt></ruby> で、ご飯を食べるのを忘れていた。</li>
         <li>遠藤さんはしゃべるのがとても <ruby>人なつっこく<rt>ひとなつっこく</rt></ruby> て、人が近づいてきてもこわがらない。</li>
