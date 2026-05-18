@@ -114,6 +114,121 @@ const ans_4 = `正確答案是：4
 
 `;
 
+const read_1 =`秋の運動会について
+第一小学校の運動会を行います。
+子供たちは運動会のために一生懸命練習してきました。
+ご家族の方たちに子供たちの楽しんでいる様子をご覧いただき、
+ぜひ応援をしていただけたいと思っています。
+運動会を行う日：2018年10月30日 午前9:00～
+駐車場は体育館横の広場です。
+ご家族の皆様は子供たちと一緒に参加する競技もあるので、動きやすい服装で来てください。
+`
+
+const Q14 = {
+  sentences: [
+    "Q14",
+    "このお知らせを見て、親が気をつけないといけないことは何か。",
+    "A. 運動できる服を着て学校へ来る。",
+    "B. カメラでビデオを撮ることはできない。",
+    "C. 車を運転して学校に来てはいけない。",
+    "D. 遅刻すると学校の中に入れない。"
+]
+  };
+const ans_14 =`正確答案：A. 運動できる服を着て学校へ来る。
+題目問： 「看完通知後，家長必須注意的事情是什麼？」
+關鍵句： 文章最後一句提到
+「ご家族の皆様は子供たちと一緒に参加する競技もあるので、動きやすい服装で来てください。」
+（因為有家長與孩子共同參加的項目，請穿著方便活動的服裝前來。）
+選項解析：
+這對應了文中「動きやすい服装（方便活動的服裝）」。
+文中未提及錄影限制。
+文中提到「駐車場は...（停車場在...）」，表示可以開車前來，而非禁止。
+文中未提及遲到就不能進校。
+`
+
+const read_2 =`つぎの文章を読んで、文章全体の内容を考えて、[15] から [19] の中に入る最もよいものを、1・2・3・4から一つえらびなさい。
+「弱いロボット」というのを知っていますか？
+近年、愛知県の大学が発明した「弱いロボット」というものが注目 [15] 。
+ロボットはただ人の世話をするのではなく、人とロボットがお互いに助け合うことができるというものです。
+ロボットを作った人は「人とのコミュニケーション」を大事にしたそうです。
+自分ではゴミが拾えず、ただ周りにゴミがあることを知らせるだけのゴミ箱ロボットや、
+ティッシュを持ちながら人に近づくが自分から渡すことはできず、
+人から受け取ってもらうまで待つロボットなど、
+人が [16] 話しかけたり、助けたくなるような不思議なロボットたちです。
+普通、私たちは、ロボットは人の役に立つ [17] と考え、
+もっと便利なロボットを作ろうとします。しかし、この弱いロボットは、
+自分のできないことを表現しています。[18] 、人を信用できる関係を作っているのです。
+人は誰かの役に立ったり、人の助けになれると喜びを感じます。
+「弱いロボット」には、人間の優しい心を育てる力があるのです。人とロボットが助け合える、
+[19] ロボットがあってもいいのではないでしょうか。`
+const Q15 = {
+  sentences: [
+    "Q15",
+    "A. させられています",
+    "B. されています",
+    "C. させています",
+    "D. させておきます"
+]
+  };
+const ans_15 =`正確答案：B. されています
+解析： 前文是「注目（受矚目）」。這裡需要被動形，表示這個機器人「正受到矚目」。
+`
+const Q16 = {
+  sentences: [
+    "Q16",
+    "A. つい",
+    "B. もともと",
+    "C. やはり",
+    "D. まさか"
+]
+  };
+const ans_16 =`正確答案：A. つい
+解析： 「つい」表示「不由自主地、不小心就……」。
+文意是：這些機器人很不可思議，讓人看到會「不由自主地」想跟它說話或幫它。
+`
+
+const Q17 = {
+  sentences: [
+    "Q17",
+    "A. わけだ",
+    "B. ほかない",
+    "C. べきものだ",
+    "D. ようである"
+]
+  };
+const ans_17 =`正確答案：C. べきものだ
+解析： 「べき」表示「應該、理所當然」。
+文意是：一般人認為機器人「應該要是能派上用場的東西」，所以致力於開發更便利的機器人。
+`
+
+const Q18 = {
+  sentences: [
+    "Q18",
+    "A. 弱いにちがいない",
+    "B. 弱くなんかない",
+    "C. 弱いはずがなく",
+    "D. 弱いからこそ"
+]
+  };
+const ans_18 =`正確答案：D. 弱いからこそ
+解析： 「～からこそ」表示「正因為……才」。
+文意是：它表現出自己做不到的事，並非真的沒用，而是「正因為它很弱」，才能與人建立互信關係。
+`
+
+const Q19 = {
+  sentences: [
+    "Q19",
+    "A. そう",
+    "B. そんな",
+    "C. そうして",
+    "D. そのように"
+]
+  };
+const ans_19 =`正確答案：B. そんな
+解析： 「そんな」指代上述提到的這種特殊關係。
+文意是：人和機器人互相幫助，「那樣的」機器人存在不也很好嗎
+`
+
 export default function N3_t01() {
   return (
     <div className="font">
@@ -203,6 +318,74 @@ export default function N3_t01() {
 
         <Toggle title="ans">
         <RedMarkdown content={ans_4} />
+        </Toggle>
+
+        {/* Q14 */}
+        <RedMarkdown content={read_1} />
+        {Q14.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={ans_14} />
+        </Toggle>
+
+        {/* Q15 */}
+        <RedMarkdown content={read_2} />
+        {Q15.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={ans_15} />
+        </Toggle>
+
+        {/* Q16 */}
+        {Q16.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={ans_16} />
+        </Toggle>
+
+        {/* Q17 */}
+        {Q17.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={ans_17} />
+        </Toggle>
+
+        {/* Q18 */}
+        {Q18.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={ans_18} />
+        </Toggle>
+
+        {/* Q19 */}
+        {Q19.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={ans_19} />
         </Toggle>
 
         <li className="no-list-style"></li>
