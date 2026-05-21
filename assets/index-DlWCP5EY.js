@@ -142,13 +142,52 @@ Please change the parent <Route path="${K}"> to <Route path="${K==="/"?"*":`${K}
 `,M2={sentences:["Q19","A. そう","B. そんな","C. そうして","D. そのように"]},w2=`正確答案：B. そんな
 解析： 「そんな」指代上述提到的這種特殊關係。
 文意是：人和機器人互相幫助，「那樣的」機器人存在不也很好嗎
-`;function B2(){return o.jsxs("div",{className:"font",children:[o.jsx("h3",{children:"第一回JLPT 試題review"}),o.jsx("h5",{children:"詞彙問題"}),o.jsxs("ul",{className:"no-list-style",children:[o.jsxs("li",{children:["来月、旅行に行くので、お金を ",o.jsx(vi,{kanji:"節約",kana:"せつやく"}),"する。"]}),o.jsxs("li",{children:["彼はいつも ",o.jsx(vi,{kanji:"個性",kana:"こせい"}),"的な服を着ている。"]}),o.jsxs("li",{children:["朝はテレビで天気 ",o.jsx(vi,{kanji:"予報",kana:"よほう"}),"を見ます。"]}),o.jsxs("li",{children:[o.jsx(vi,{kanji:"徒歩",kana:"とほ"}),"で学校に行きます。"]}),o.jsxs("li",{children:["大野さんは学校で",o.jsx(vi,{kanji:"常",kana:"つね"}),"に成績が一番だ。"]}),o.jsxs("li",{children:["シャツのボタンが ",o.jsxs("ruby",{children:["外れる",o.jsx("rt",{children:"はずれる"})]}),"。"]}),o.jsxs("li",{children:["昨夜の火事のことが今朝の",o.jsx(vi,{kanji:"記事",kana:"きじ"}),"に載っていた。"]}),o.jsxs("li",{children:["誰が一番早く走れるかを ",o.jsxs("ruby",{children:["争う",o.jsx("rt",{children:"あらそう"})]}),"。"]}),o.jsxs("li",{children:["ショッピングに ",o.jsxs("ruby",{children:["夢中",o.jsx("rt",{children:"むちゅう"})]})," で、ご飯を食べるのを忘れていた。"]}),o.jsxs("li",{children:["遠藤さんはしゃべるのがとても ",o.jsxs("ruby",{children:["人なつっこく",o.jsx("rt",{children:"ひとなつっこく"})]})," て、人が近づいてきてもこわがらない。"]}),o.jsxs("li",{children:["夕方のニュースによると、明日アメリカのスターが ",o.jsxs("ruby",{children:["来日",o.jsx("rt",{children:"らいにち"})]})," するらしい。"]}),o.jsxs("li",{children:["今日、電車でおじいさんに席を ",o.jsxs("ruby",{children:["譲った",o.jsx("rt",{children:"ゆずった"})]})," ら、お礼を言われた。"]}),o.jsxs("li",{children:["彼はピアノの ",o.jsxs("ruby",{children:["コンクール",o.jsx("rt",{children:"こんくーる"})]})," で何度も優勝したことがある。"]}),o.jsxs("li",{children:["手紙をもらったが、 ",o.jsxs("ruby",{children:["差出",o.jsx("rt",{children:"さしだし"})]})," 人がわからなくて困っている。"]}),o.jsxs("li",{children:["野菜を多く食べるために、週に何日かは家で ",o.jsxs("ruby",{children:["自炊",o.jsx("rt",{children:"じすい"})]})," をしている。"]}),o.jsxs("li",{children:["友達を探そうと、 ",o.jsxs("ruby",{children:["立ち止まって",o.jsx("rt",{children:"たちどまって"})]})," 辺りを見回したがどこにもいない。"]}),o.jsxs("li",{children:["明日は仕事が休みなので、つい ",o.jsxs("ruby",{children:["夜ふかし",o.jsx("rt",{children:"よふかし"})]})," をしてしまった。"]})]}),o.jsx("h5",{children:"語意問題"}),o.jsxs("ul",{children:[o.jsx("li",{children:"内緒:"}),o.jsxs("li",{className:"no-list-style",children:["1.彼はいつもどこにいるかわからないので、とても",o.jsx("span",{className:"ptline",children:"内緒"}),"だ。"]}),o.jsxs("li",{className:"no-list-style",children:["2.ビジネスが成功している理由は企業",o.jsx("span",{className:"ptline",children:"内緒"}),"なので、 公開していない。"]}),o.jsxs("li",{className:"no-list-style",children:["3.実は来月川村さんと結婚するのだが、 まだ会社の人たちには",o.jsx("span",{className:"ptline",children:"内緒"}),"にしている。"]}),o.jsxs("li",{className:"no-list-style",children:["4.深夜、家族が寝ている間に、 どろぼうが",o.jsx("span",{className:"ptline",children:"内緒"}),"で家に入ってきたようだ。"]}),o.jsxs(oe,{title:"ans",children:["正確答案是：3",o.jsx("br",{}),"1. 彼はいつもどこにいるかわからないので、とても【内緒】だ。",o.jsx("br",{}),"錯誤原因： 「内緒」不能用來形容一個人的行蹤神祕或捉摸不定。",o.jsx("br",{}),"更好的詞： 謎（なぞ） 或 ミステリアス (Mysterious)。",o.jsx("br",{}),"修正後： 彼はいつもどこにいるかわからないので、とても**謎（なぞ）**だ。（他總是不知所蹤，真是個謎。）",o.jsx("br",{}),"2. ビジネスが成功している理由は【企業内緒】なので、公開していない。",o.jsx("br",{}),"錯誤原因： 「内緒」通常用於個人或非正式場合。對於公司、技術、國家等級的專業機密，日文會用更正式的詞。",o.jsx("br",{}),"企業秘密（きぎょうひみつ）。",o.jsx("br",{}),"修正後： ビジネスが成功している理由は企業秘密なので、公開していない。（成功的原因是企業機密，所以不對外公開。）",o.jsx("br",{}),"3. 実は来月川村さんと結婚するのだが、まだ会社の人たちには【内緒】にしている。（正確）",o.jsx("br",{}),"解析： 這是標準用法。「内緒にする」表示「瞞著某人」或「不讓某人知道」。結婚是私事，用在辦公室同仁之間非常合適。",o.jsx("br",{}),"4. 深夜、家族が寝ている間に、どろぼうが【内緒で】家に入ってきたようだ。",o.jsx("br",{}),"錯誤原因： 「内緒」強調的是「保密」，而小偷進屋是不想被發現、動作很輕，側重於「行為的隱密」。",o.jsx("br",{}),"更好的詞： こっそり（悄悄地、溜進來）或 忍（しの）び込む（潛入）。",o.jsx("br",{}),"修正後： どろぼうがこっそり家に入ってきたようだ。（小偷似乎趁半夜悄悄溜進了家門。）",o.jsx("br",{})]}),o.jsx("li",{children:Op.word}),Op.sentences.map((l,a)=>o.jsxs("li",{className:"no-list-style",children:[a+1,"."," ",o.jsx(Z,{content:l,highlights:["ほど"]})]},a)),o.jsx(oe,{title:"ans",children:o.jsx(Z,{content:x2})}),o.jsx("li",{children:Rp.word}),Rp.sentences.map((l,a)=>o.jsxs("li",{className:"no-list-style",children:[a+1,"."," ",o.jsx(Z,{content:l,highlights:["やかまし"]})]},a)),o.jsx(oe,{title:"ans",children:o.jsx(Z,{content:v2})}),o.jsx("li",{children:Mp.word}),Mp.sentences.map((l,a)=>o.jsxs("li",{className:"no-list-style",children:[a+1,"."," ",o.jsx(Z,{content:l,highlights:["真剣"]})]},a)),o.jsx(oe,{title:"ans",children:o.jsx(Z,{content:b2})}),o.jsx(Z,{content:S2}),j2.sentences.map((l,a)=>o.jsx("li",{className:"no-list-style",children:o.jsx(Z,{content:l})},a)),o.jsx(oe,{title:"ans",children:o.jsx(Z,{content:E2})}),o.jsx(Z,{content:A2}),C2.sentences.map((l,a)=>o.jsx("li",{className:"no-list-style",children:o.jsx(Z,{content:l})},a)),o.jsx(oe,{title:"ans",children:o.jsx(Z,{content:T2})}),_2.sentences.map((l,a)=>o.jsx("li",{className:"no-list-style",children:o.jsx(Z,{content:l})},a)),o.jsx(oe,{title:"ans",children:o.jsx(Z,{content:z2})}),D2.sentences.map((l,a)=>o.jsx("li",{className:"no-list-style",children:o.jsx(Z,{content:l})},a)),o.jsx(oe,{title:"ans",children:o.jsx(Z,{content:N2})}),O2.sentences.map((l,a)=>o.jsx("li",{className:"no-list-style",children:o.jsx(Z,{content:l})},a)),o.jsx(oe,{title:"ans",children:o.jsx(Z,{content:R2})}),M2.sentences.map((l,a)=>o.jsx("li",{className:"no-list-style",children:o.jsx(Z,{content:l})},a)),o.jsx(oe,{title:"ans",children:o.jsx(Z,{content:w2})}),o.jsx("li",{className:"no-list-style"})]})]})}const k2={sentences:["Q1","ご飯を作っている（　）に電話がかかってきたので、電話に出られなかった。","A. 段階","B. 大幅","C. 最中","D. 区間"]},U2=`正確答案：
-答案：C. 最中（さいちゅう）
-解析： 「～最中に」表示正在做某件事的高潮或中間，突然發生了另一件事（通常是不受歡迎的干擾）。
-翻譯： 正忙著做飯的時候電話響了，所以沒能接。
-`,L2={sentences:["Q2","試合会場に着いた（　）、大雨が降り始めた。サッカーの大会は中止だろう。","A. とたんに","B. だろうと","C. ことから","D. としたら"]},H2=`正確答案：C. とたんに
+`;function B2(){return o.jsxs("div",{className:"font",children:[o.jsx("h3",{children:"第一回JLPT 試題review"}),o.jsx("h5",{children:"詞彙問題"}),o.jsxs("ul",{className:"no-list-style",children:[o.jsxs("li",{children:["来月、旅行に行くので、お金を ",o.jsx(vi,{kanji:"節約",kana:"せつやく"}),"する。"]}),o.jsxs("li",{children:["彼はいつも ",o.jsx(vi,{kanji:"個性",kana:"こせい"}),"的な服を着ている。"]}),o.jsxs("li",{children:["朝はテレビで天気 ",o.jsx(vi,{kanji:"予報",kana:"よほう"}),"を見ます。"]}),o.jsxs("li",{children:[o.jsx(vi,{kanji:"徒歩",kana:"とほ"}),"で学校に行きます。"]}),o.jsxs("li",{children:["大野さんは学校で",o.jsx(vi,{kanji:"常",kana:"つね"}),"に成績が一番だ。"]}),o.jsxs("li",{children:["シャツのボタンが ",o.jsxs("ruby",{children:["外れる",o.jsx("rt",{children:"はずれる"})]}),"。"]}),o.jsxs("li",{children:["昨夜の火事のことが今朝の",o.jsx(vi,{kanji:"記事",kana:"きじ"}),"に載っていた。"]}),o.jsxs("li",{children:["誰が一番早く走れるかを ",o.jsxs("ruby",{children:["争う",o.jsx("rt",{children:"あらそう"})]}),"。"]}),o.jsxs("li",{children:["ショッピングに ",o.jsxs("ruby",{children:["夢中",o.jsx("rt",{children:"むちゅう"})]})," で、ご飯を食べるのを忘れていた。"]}),o.jsxs("li",{children:["遠藤さんはしゃべるのがとても ",o.jsxs("ruby",{children:["人なつっこく",o.jsx("rt",{children:"ひとなつっこく"})]})," て、人が近づいてきてもこわがらない。"]}),o.jsxs("li",{children:["夕方のニュースによると、明日アメリカのスターが ",o.jsxs("ruby",{children:["来日",o.jsx("rt",{children:"らいにち"})]})," するらしい。"]}),o.jsxs("li",{children:["今日、電車でおじいさんに席を ",o.jsxs("ruby",{children:["譲った",o.jsx("rt",{children:"ゆずった"})]})," ら、お礼を言われた。"]}),o.jsxs("li",{children:["彼はピアノの ",o.jsxs("ruby",{children:["コンクール",o.jsx("rt",{children:"こんくーる"})]})," で何度も優勝したことがある。"]}),o.jsxs("li",{children:["手紙をもらったが、 ",o.jsxs("ruby",{children:["差出",o.jsx("rt",{children:"さしだし"})]})," 人がわからなくて困っている。"]}),o.jsxs("li",{children:["野菜を多く食べるために、週に何日かは家で ",o.jsxs("ruby",{children:["自炊",o.jsx("rt",{children:"じすい"})]})," をしている。"]}),o.jsxs("li",{children:["友達を探そうと、 ",o.jsxs("ruby",{children:["立ち止まって",o.jsx("rt",{children:"たちどまって"})]})," 辺りを見回したがどこにもいない。"]}),o.jsxs("li",{children:["明日は仕事が休みなので、つい ",o.jsxs("ruby",{children:["夜ふかし",o.jsx("rt",{children:"よふかし"})]})," をしてしまった。"]})]}),o.jsx("h5",{children:"語意問題"}),o.jsxs("ul",{children:[o.jsx("li",{children:"内緒:"}),o.jsxs("li",{className:"no-list-style",children:["1.彼はいつもどこにいるかわからないので、とても",o.jsx("span",{className:"ptline",children:"内緒"}),"だ。"]}),o.jsxs("li",{className:"no-list-style",children:["2.ビジネスが成功している理由は企業",o.jsx("span",{className:"ptline",children:"内緒"}),"なので、 公開していない。"]}),o.jsxs("li",{className:"no-list-style",children:["3.実は来月川村さんと結婚するのだが、 まだ会社の人たちには",o.jsx("span",{className:"ptline",children:"内緒"}),"にしている。"]}),o.jsxs("li",{className:"no-list-style",children:["4.深夜、家族が寝ている間に、 どろぼうが",o.jsx("span",{className:"ptline",children:"内緒"}),"で家に入ってきたようだ。"]}),o.jsxs(oe,{title:"ans",children:["正確答案是：3",o.jsx("br",{}),"1. 彼はいつもどこにいるかわからないので、とても【内緒】だ。",o.jsx("br",{}),"錯誤原因： 「内緒」不能用來形容一個人的行蹤神祕或捉摸不定。",o.jsx("br",{}),"更好的詞： 謎（なぞ） 或 ミステリアス (Mysterious)。",o.jsx("br",{}),"修正後： 彼はいつもどこにいるかわからないので、とても**謎（なぞ）**だ。（他總是不知所蹤，真是個謎。）",o.jsx("br",{}),"2. ビジネスが成功している理由は【企業内緒】なので、公開していない。",o.jsx("br",{}),"錯誤原因： 「内緒」通常用於個人或非正式場合。對於公司、技術、國家等級的專業機密，日文會用更正式的詞。",o.jsx("br",{}),"企業秘密（きぎょうひみつ）。",o.jsx("br",{}),"修正後： ビジネスが成功している理由は企業秘密なので、公開していない。（成功的原因是企業機密，所以不對外公開。）",o.jsx("br",{}),"3. 実は来月川村さんと結婚するのだが、まだ会社の人たちには【内緒】にしている。（正確）",o.jsx("br",{}),"解析： 這是標準用法。「内緒にする」表示「瞞著某人」或「不讓某人知道」。結婚是私事，用在辦公室同仁之間非常合適。",o.jsx("br",{}),"4. 深夜、家族が寝ている間に、どろぼうが【内緒で】家に入ってきたようだ。",o.jsx("br",{}),"錯誤原因： 「内緒」強調的是「保密」，而小偷進屋是不想被發現、動作很輕，側重於「行為的隱密」。",o.jsx("br",{}),"更好的詞： こっそり（悄悄地、溜進來）或 忍（しの）び込む（潛入）。",o.jsx("br",{}),"修正後： どろぼうがこっそり家に入ってきたようだ。（小偷似乎趁半夜悄悄溜進了家門。）",o.jsx("br",{})]}),o.jsx("li",{children:Op.word}),Op.sentences.map((l,a)=>o.jsxs("li",{className:"no-list-style",children:[a+1,"."," ",o.jsx(Z,{content:l,highlights:["ほど"]})]},a)),o.jsx(oe,{title:"ans",children:o.jsx(Z,{content:x2})}),o.jsx("li",{children:Rp.word}),Rp.sentences.map((l,a)=>o.jsxs("li",{className:"no-list-style",children:[a+1,"."," ",o.jsx(Z,{content:l,highlights:["やかまし"]})]},a)),o.jsx(oe,{title:"ans",children:o.jsx(Z,{content:v2})}),o.jsx("li",{children:Mp.word}),Mp.sentences.map((l,a)=>o.jsxs("li",{className:"no-list-style",children:[a+1,"."," ",o.jsx(Z,{content:l,highlights:["真剣"]})]},a)),o.jsx(oe,{title:"ans",children:o.jsx(Z,{content:b2})}),o.jsx(Z,{content:S2}),j2.sentences.map((l,a)=>o.jsx("li",{className:"no-list-style",children:o.jsx(Z,{content:l})},a)),o.jsx(oe,{title:"ans",children:o.jsx(Z,{content:E2})}),o.jsx(Z,{content:A2}),C2.sentences.map((l,a)=>o.jsx("li",{className:"no-list-style",children:o.jsx(Z,{content:l})},a)),o.jsx(oe,{title:"ans",children:o.jsx(Z,{content:T2})}),_2.sentences.map((l,a)=>o.jsx("li",{className:"no-list-style",children:o.jsx(Z,{content:l})},a)),o.jsx(oe,{title:"ans",children:o.jsx(Z,{content:z2})}),D2.sentences.map((l,a)=>o.jsx("li",{className:"no-list-style",children:o.jsx(Z,{content:l})},a)),o.jsx(oe,{title:"ans",children:o.jsx(Z,{content:N2})}),O2.sentences.map((l,a)=>o.jsx("li",{className:"no-list-style",children:o.jsx(Z,{content:l})},a)),o.jsx(oe,{title:"ans",children:o.jsx(Z,{content:R2})}),M2.sentences.map((l,a)=>o.jsx("li",{className:"no-list-style",children:o.jsx(Z,{content:l})},a)),o.jsx(oe,{title:"ans",children:o.jsx(Z,{content:w2})}),o.jsx("li",{className:"no-list-style"})]})]})}const k2={sentences:["Q1","ご飯を作っている（　）に電話がかかってきたので、電話に出られなかった。","A. 段階","B. 大幅","C. 最中","D. 区間"]},U2=`正確答案：C. 最中（さいちゅう）
+這句話的意思是：「正當我在做飯的關鍵時刻電話響了，所以沒辦法接電話。」
+意思： 「正當…的時候」、「正在…的高潮/關鍵時刻」。
+用法： 動詞ている形 / 名詞+の + 最中（に）。
+解析： 這個詞強調的是「在某個動作進行得最激烈、最需要專注的那個時間點」，突然發生了另外一件意料之外的事（通常是帶來干擾的事）。
+代入句中： ご飯を作っている最中に（正當我在做飯的緊要關頭）電話がかかってきた（電話響了，打斷了我）。
+
+錯誤選項分析：
+A. 段階（だんかい）
+意思： 「階段」、「步驟」。
+為何錯誤： 這是指事情發展的某一個時期或步驟。通常會說「現段階（現階段）」或「計画の段階（計畫階段）」。我們不會說「正在做飯的階段電話響了」。
+例句： 今はまだ、計画の段階です。（現在還處於計畫階段。）
+
+B. 大幅（おおはば）
+意思： 「大幅度地」、「大範圍地」（副詞或形容動詞）。
+為何錯誤： 這是用來形容變動的程度很大（例如：價格大幅上漲、計畫大幅修改）。它是一個形容程度的詞，完全不是時間名詞。
+例句： 給料が大幅に増えました。（薪水大幅增加了。）
+
+D. 区間（くかん）
+意思： 「區間」、「路段」。
+為何錯誤： 這是指地理位置或鐵路/公路上的一段距離（例如：乘車區間）。它無法用來形容時間的進行。
+例句： この区間は、各駅停車しか止まりません。（這個路段只有普通車會停靠。）
+`,L2={sentences:["Q2","試合会場に着いた（　）、大雨が降り始めた。サッカーの大会は中止だろう。","A. とたんに","B. だろうと","C. ことから","D. としたら"]},H2=`正確答案：A. とたんに
+這句話的意思是：「一抵達比賽會場的那一瞬間，就下起了大雨。足球大賽應該會中止吧。」
 解析： 「～たとたんに」表示前一個動作剛完成，後一個動作就緊接著發生，通常帶有驚訝或意外感。
-翻譯： 剛一到達比賽會場，就開始下起大雨。足球大賽大概會取消吧。
+
+意思： 「一…的瞬間」、「剛…就…（緊接著發生了意料之外的事）」
+用法： 動詞た形 + とたんに。
+解析： 這個詞強調「前一個動作剛完成，後面的變化就立刻、突然發生」，通常帶有驚訝或意外感且後半句會接續非說話者能控制的客觀突發事件（例如：突然下雨、燈突然熄滅、小孩子突然哭了）。
+代入句中： 試合会場に着いたとたんに、大雨が降り始めた。（剛一到會場的瞬間，大雨就突然傾盆而下。）
+
+錯誤選項分析：
+B. だろうと
+意思： 「不管是…還是…」或「無論如何都…（帶有不管前項如何，後項都成立的語氣）」
+為何錯誤： だろうと 通常接在名詞或形容詞後，表示讓步（無論是...）。在這裡與動詞過去式「着いた」接續不合，語意也完全不通。
+例句： どんなに難しだろうと、諦めない。（不管有多難，我都不會放棄。）
+
+C. ことから
+意思： 「因為…（由此引發了某個結果/名稱的由來）」
+為何錯誤： 這是用來解釋「原因、理由」的書面語。如果選這個，意思會變成「因為抵達了比賽會場，所以開始下大雨」，這在因果邏輯上是不成立的（大雨不是因為你到場才下的）。
+例句： 富士山が見えることから、この町は富士見町と呼ばれている。（因為看得到富士山，這座城鎮被稱為富士見町。）
+
+D. としたら
+意思： 「如果…的話」、「假設…」
+為何錯誤： 這是純粹的「假定條件」。但文中後半句是用過去式 「降り始めた（開始下了）」，這代表大雨已經是既定發生的事實，不能用「如果」來假設一個已經發生的事情。
+例句： もし生まれ変わるとしたら、鳥になりたい。（如果能轉世的話，我想當一隻鳥。）
 `,q2={sentences:["Q3","たとえなかなか結果が出ないとしても、あきらめずに練習を（　）続けることが大切だ。","A. やる","B. やれ","C. やり","D. やら"]},Q2=`正確答案：C. やり
 解析： 這是複合動詞的用法。動詞去 ます 形（やり）加上 続ける（繼續），表示「持續做某事」。
 翻譯： 即使遲遲沒有結果，不放棄並持續練習是很重要的。
@@ -156,11 +195,55 @@ Please change the parent <Route path="${K}"> to <Route path="${K==="/"?"*":`${K}
 解析： 名詞 + 「通り」表示「照著……」、「正如……」。
 翻譯： 搭乘下午1點出發的巴士，正如預定在3點抵達了飯店。
 `,X2={sentences:["Q5","（会社で）","社員A「すみません。そこにある資料を（　）か。」","社員B「はい、いいですよ。これですか。」","社員A「はい、それです。ありがとうございます。」","A. 取れてしまいます","B. 取らせておきます","C. 取ろうとしません","D. 取ってもらってもいいです"]},G2=`正確答案：D. 取ってもらってもいいです
-解析： 「～てもらう」用於請求他人為自己做某事。
-翻譯： A：「抱歉，能請你幫我拿一下那邊的資料嗎？」 B：「好啊，是這個嗎？」
-`,Z2={sentences:["Q6","（道を歩いている時に）","A:「急に泣き（　）、どうしたんですか。」","B:「ちょっと辛いことを思い出してしまって。」","A:「ちょうどあそこにベンチがあるので、少し休みましょうか。」","A. 出しといて","B. 出したりして","C. 出そうと","D. 出すなど"]},K2=`正確答案：
-解析： 動詞去 ます 形 + 「出す」表示突然開始。「～たりして」用於列舉動作。
-翻譯： A：「突然哭了起來，是怎麼了呢？」
+這是一題非常經典的日檢 N3 商務職場會話題。這類題目考驗的是「對話角色的立場」以及「請求/授受動詞」的精準度。
+我們先還原對話的情境與中文意思：
+（在公司裡）
+社員 A：「不好意思。可以請你幫我拿一下那邊的資料嗎？」
+社員 B：「好的，沒問題。是這份嗎？」
+社員 A：「對，就是那個。非常謝謝你。」
+
+正確答案：D. 取ってもらってもいいです
+意思： 「可以請你幫我拿嗎？」、「能麻煩你幫我拿一下嗎？」
+結構分解：
+動詞て形 + もらう： 得到某人幫忙做某事（主詞是 A，動作是 B 做）。
+～てもいいですか： 可以...嗎？（這裡的 です 在口語中常把 か 變成上揚語調，代表詢問）。
+解析：
+從 B 的回答「はい、いいですよ（好啊，沒問題）」以及 A 最後說「ありがとうございます（謝謝）」，我們可以 100% 確定 「A 是在拜託 B 幫忙拿資料」。因此必須選擇表示「請求他人協助」的語法。
+～てもらう（請人做） + ～てもいい（可以嗎） = 可以請你幫我做嗎？
+
+錯誤選項分析：
+A. 取れてしまいます
+意思： 「不小心拿了（遺憾）」或「（自然地）掉下來了/解開了」。
+為何錯誤： 這是自動詞 取れる 的遺憾表現（～てしまう），意思完全不對，無法用來拜託別人。
+例句： シャツのボタンが取れてしまいました。（襯衫的鈕扣不小心掉下來了。）
+
+B. 取らせておきます
+意思： 「（我）會叫某人去拿（並放著不管）。」
+結構： 使役形（取らせる，叫人做） + 預先準備/放任（おく）。
+為何錯誤： 這是上級對下級說「我之後會命令別人去拿」的口氣。A 現在是直接在對面拜託 B 幫忙，用這個詞會非常無禮且不合邏輯。
+例句： その仕事は、部下にやらせておきます。（那份工作我會叫部下去做。）
+
+C. 取ろうとしません
+意思： 「（某人）根本不想去拿、沒有打算去拿。」
+結構： 意向形 + としない（毫無嘗試做某事的意願）。
+為何錯誤： 這是用來客觀描述「第三者不願意做某事」的狀態。放在這裡會變成 A 在對 B 抱怨，無法形成後續「好啊，沒問題」的對話。
+例句： 彼は私の話を聞こうとしません。（他根本不想聽我說話。）
+`,Z2={sentences:["Q6","（道を歩いている時に）","A:「急に泣き（　）、どうしたんですか。」","B:「ちょっと辛いことを思い出してしまって。」","A:「ちょうどあそこにベンチがあるので、少し休みましょうか。」","A. 出しといて","B. 出したりして","C. 出そうと","D. 出すなど"]},K2=`正確答案：B. 出したりして
+這是一題考驗 「動詞複合詞（～出す）」 以及 「口語委婉語氣」 的 N3 實戰題。
+我們先還原這段對話的情境與中文意思：
+（在路上走著的時候）A：「你突然哭了起來，發生什麼事了嗎？」
+B：「只是不小心想起了一些難過的事。」
+A：「剛好那邊有長椅，我們要不要過去坐著休息一下？」
+核心語法拆解：泣き出す（なきだす）在日文中，「動詞連用形（去 ます） + 出す」 表示「突然開始做某事」或「（情感、雨水等）爆發出來」。泣きます（哭） 
+→ 泣き出す（突然哭了起來）降ります（下雨） → 降り出す（突然下起雨來）
+
+意思： 「突然哭了起來、做出了…之類的舉動」用法： 動詞 た形 + りして（在口語中，用於委婉地舉例或推測對方的反常狀態）。
+解析：A 看到 B 突然在路上流眼淚，為了避免問得太過直接、生硬，所以使用了 ～たりして。這在日語口語中能起到緩衝、委婉的作用，意思是「你怎麼突然做出哭泣之類的舉動呢？」。
+代入句中： 急に泣き出したりして、どうしたんですか。（怎麼突然哭了起來呢？發生什麼事了？）
+錯誤選項分析：A. 出しといて意思： 「請先讓它哭（放著不管）」結構： ～だす（開始） + ～ておいて（預先做好某狀態，口語縮寫為 といて）。為何錯誤： 這是「命令、要求對方維持某個狀態」的說法（例如：窓を開けといて / 請先幫我把窗戶開著）。
+A 不可能在關心別人時說「請你先保持哭泣的狀態」。
+C. 出そうと意思： 「正想要哭（但還沒哭出來）」結構： 意向形（出そう） + と（後面通常接 する，表示正打算做某事）。為何錯誤： B 此時此刻已經在哭了，所以不能用表示「正打算、企圖」的意向形。而且單獨放 出そうと 在這裡語法不完整。
+D. 出すなど意思： 「之類的（用於列舉，語氣較為冷淡或客觀）」為何錯誤： など 雖然也是「之類的」，但它通常用於客觀條列物品或否定、輕蔑的語境中（例如：お酒などは飲みません / 我才不喝地酒之類的東西）。用在關心眼前正在哭的朋友時，語氣非常不自然。
 `,J2={sentences:["Q7","小林「田中くんは、なんで東京生まれなのに大阪弁なの？」","田中「生まれは東京だけど、大阪で（　）、大阪弁に慣れちゃったんだ。」","A. 育ったわりに","B. 育ったもんだから","C. 育ったようで","D. 育ったようなら"]},F2=`正確答案：B. 育ったもんだから
 解析： 「～（もの）だから」用於強調原因、理由，通常帶有一點解釋或辯解的語氣。
 翻譯： 田中：「雖然出生在東京，但因為是在大阪長大的，所以就習慣大阪腔了。」
