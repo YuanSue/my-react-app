@@ -775,6 +775,7 @@ export default function N3_t02() {
     <div className="font">
       <h3>第二回JLPT 試題review</h3>
       <h5>詞彙問題</h5>
+      <h5>言語知識</h5>
       <ul>
         {/* Q1 */}
         {Q1.sentences.map((s, i) => (
