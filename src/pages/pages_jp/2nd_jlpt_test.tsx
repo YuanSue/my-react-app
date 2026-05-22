@@ -1118,6 +1118,7 @@ export default function N3_t02() {
         </Toggle>
 
         <RedMarkdown content={read_4} />
+        <RedMarkdown content={read_ch_4} />
         {/* Q26 */}
         {Q26.sentences.map((s, i) => (
           <li key={i} className="no-list-style">
