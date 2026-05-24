@@ -1225,6 +1225,9 @@ export default function N3_t02() {
         </Toggle>
 
         <RedMarkdown content={read_5} />
+        <Toggle title="translate">
+          <RedMarkdown content={read_ch_5} />
+        </Toggle>
         {/* Q27 */}
         {Q27.sentences.map((s, i) => (
           <li key={i} className="no-list-style">
@@ -1238,6 +1241,9 @@ export default function N3_t02() {
 
 
         <RedMarkdown content={read_6} />
+        <Toggle title="translate">
+          <RedMarkdown content={read_ch_6} />
+        </Toggle>
         {/* Q28  */}
         {Q28.sentences.map((s, i) => (
           <li key={i} className="no-list-style">
@@ -1273,6 +1279,9 @@ export default function N3_t02() {
         
         {/* Q31  */}
         <RedMarkdown content={read_7} />
+        <Toggle title="translate">
+          <RedMarkdown content={read_ch_7} />
+        </Toggle>
         {Q31.sentences.map((s, i) => (
           <li key={i} className="no-list-style">
             <RedMarkdown content={s} />
