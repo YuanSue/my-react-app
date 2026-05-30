@@ -1,9 +1,9 @@
 // src/App.tsx
-import React from 'react';
+//import React from 'react';
 // 把所有 export 的變數打包成一個叫作 'Reads' 的物件
 import * as Reads from "../../component/zip_word_jlpt3";
 import {questions} from "../../component/zip_word_jlpt3"
-import Toggle from "../../component/func_toggle_list";
+//import Toggle from "../../component/func_toggle_list";
 import RedMarkdown from "../../component/func_mkdown_redpt";
 
 // 抓出題目
