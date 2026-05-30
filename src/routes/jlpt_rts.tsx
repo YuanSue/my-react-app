@@ -5,6 +5,7 @@ import N3_260115 from "../pages/pages_jp/2026_01_15";
 import N3_260301 from "../pages/pages_jp/2026_03_01";
 import N3_t01 from "../pages/pages_jp/1st_jlpt_test";
 import N3_t02 from "../pages/pages_jp/2nd_jlpt_test";
+import N3_t03 from "../pages/pages_jp/3rd_jlpt_test";
 import N3_prac from "../pages/pages_jp/practice";
 import N3_note from "../pages/pages_jp/jp_note";
 
@@ -21,6 +22,7 @@ const jlptRoutes = {
     { path: "n3_2", element: <N3_260301 /> },
     { path: "n3t01", element: <N3_t01 /> } ,
     { path: "n3t02", element: <N3_t02 /> } ,
+    { path: "n3t03", element: <N3_t03 /> } ,
     { path: "n3_prac", element: <N3_prac /> } ,
     { path: "n3_note", element: <N3_note /> } 
 
