@@ -30,15 +30,79 @@ export default function N3_t03() {
           </li>
         ))}
 
-                {/* Q15 */}
-        {questions.Q15.sentences.map((s, i) => (
+        {/* Q17 */}
+        {questions.Q17.sentences.map((s, i) => (
           <li key={i} className="no-list-style">
             <RedMarkdown content={s} />
           </li>
         ))}
 
-                {/* Q15 */}
-        {questions.Q15.sentences.map((s, i) => (
+        {/* Q18 */}
+        {questions.Q18.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        {/* Q19 */}
+        {questions.Q19.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        {/* Q20 */}
+        {questions.Q20.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        {/* Q21 */}
+        {questions.Q21.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        {/* Q22 */}
+        {questions.Q22.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        {/* Q23 */}
+        {questions.Q23.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        {/* Q24 */}
+        {questions.Q24.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+
+        {/* Q25 */}
+        {questions.Q25.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+              {/* Q18 */}
+        {questions.Q18.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+              {/* Q18 */}
+        {questions.Q18.sentences.map((s, i) => (
           <li key={i} className="no-list-style">
             <RedMarkdown content={s} />
           </li>
