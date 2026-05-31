@@ -94,15 +94,37 @@ export default function N3_t03() {
           </li>
         ))}
 
-              {/* Q18 */}
-        {questions.Q18.sentences.map((s, i) => (
+        {/* Q26 */}
+        {questions.Q26.sentences.map((s, i) => (
           <li key={i} className="no-list-style">
             <RedMarkdown content={s} />
           </li>
         ))}
 
-              {/* Q18 */}
-        {questions.Q18.sentences.map((s, i) => (
+        {/* Q27 */}
+        {questions.Q27.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        {/* Q28 */}
+        {questions.Q28.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        {/* Q29 */}
+        {questions.Q29.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+
+        {/* Q30 */}
+        {questions.Q30.sentences.map((s, i) => (
           <li key={i} className="no-list-style">
             <RedMarkdown content={s} />
           </li>
