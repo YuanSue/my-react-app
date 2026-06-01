@@ -2,6 +2,7 @@ import Furi from "../../component/func_furi";
 import Toggle from "../../component/func_toggle_list";
 import RedMarkdown from "../../component/func_mkdown_redpt";
 // import ReactMarkdown from "react-markdown";
+import {questions} from "../../component/zip_word_jlpt1"
 
 
 const q2 = {
@@ -390,6 +391,51 @@ export default function N3_t01() {
         </Toggle>
 
         <li className="no-list-style"></li>
+
+
+        <h5>聽力問題</h5>
+        {/* Q1 */}
+        {questions.L1.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+      {/* Q2 */}
+        {questions.L2.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+      {/* Q3 */}
+        {questions.L3.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+      {/* Q4 */}
+        {questions.L4.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+      {/* Q5 */}
+        {questions.L5.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+      {/* Q6 */}
+        {questions.L6.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+        
       </ul>
     </div>
   );
