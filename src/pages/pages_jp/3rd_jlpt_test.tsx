@@ -203,6 +203,10 @@ export default function N3_t03() {
           </li>
         ))}
 
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans2_1} />
+        </Toggle>
+
         {/* Q2 */}
         {questions.QQ2.sentences.map((s, i) => (
           <li key={i} className="no-list-style">
@@ -210,12 +214,20 @@ export default function N3_t03() {
           </li>
         ))}
 
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans2_2} />
+        </Toggle>
+
         {/* Q3 */}
         {questions.QQ3.sentences.map((s, i) => (
           <li key={i} className="no-list-style">
             <RedMarkdown content={s} />
           </li>
         ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans2_3} />
+        </Toggle>
 
 
         {/* Q4 */}
@@ -225,6 +237,9 @@ export default function N3_t03() {
           </li>
         ))}
 
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans2_4} />
+        </Toggle>
 
         {/* Q5 */}
         {questions.QQ5.sentences.map((s, i) => (
@@ -233,12 +248,20 @@ export default function N3_t03() {
           </li>
         ))}
 
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans2_5} />
+        </Toggle>
+
         {/* Q6 */}
         {questions.QQ6.sentences.map((s, i) => (
           <li key={i} className="no-list-style">
             <RedMarkdown content={s} />
           </li>
         ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans2_6} />
+        </Toggle>
 
         {/* Q7 */}
         {questions.QQ7.sentences.map((s, i) => (
@@ -247,12 +270,20 @@ export default function N3_t03() {
           </li>
         ))}
 
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans2_7} />
+        </Toggle>
+
         {/* Q8 */}
         {questions.QQ8.sentences.map((s, i) => (
           <li key={i} className="no-list-style">
             <RedMarkdown content={s} />
           </li>
         ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans2_8} />
+        </Toggle>
 
         {/* Q9 */}
         {questions.QQ9.sentences.map((s, i) => (
@@ -261,12 +292,20 @@ export default function N3_t03() {
           </li>
         ))}
 
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans2_9} />
+        </Toggle>
+
         {/* Q10 */}
         {questions.QQ10.sentences.map((s, i) => (
           <li key={i} className="no-list-style">
             <RedMarkdown content={s} />
           </li>
         ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans2_10} />
+        </Toggle>
 
         {/* Q11 */}
         {questions.QQ11.sentences.map((s, i) => (
@@ -275,12 +314,20 @@ export default function N3_t03() {
           </li>
         ))}
 
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans2_11} />
+        </Toggle>
+
         {/* Q12 */}
         {questions.QQ12.sentences.map((s, i) => (
           <li key={i} className="no-list-style">
             <RedMarkdown content={s} />
           </li>
         ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans2_12} />
+        </Toggle>
 
         {/* Q13 */}
         {questions.QQ13.sentences.map((s, i) => (
@@ -289,12 +336,20 @@ export default function N3_t03() {
           </li>
         ))}
 
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans2_13} />
+        </Toggle>
+
         {/* Q14 */}
         {questions.QQ14.sentences.map((s, i) => (
           <li key={i} className="no-list-style">
             <RedMarkdown content={s} />
           </li>
         ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans2_14} />
+        </Toggle>
 
         {/* Q15 */}
         {questions.QQ15.sentences.map((s, i) => (
@@ -304,7 +359,7 @@ export default function N3_t03() {
         ))}
 
         <Toggle title="ans">
-        <RedMarkdown content={Reads.ans_15} />
+        <RedMarkdown content={Reads.ans2_15} />
         </Toggle>
 
         {/* Q16 */}
@@ -315,7 +370,7 @@ export default function N3_t03() {
         ))}
 
         <Toggle title="ans">
-        <RedMarkdown content={Reads.ans_16} />
+        <RedMarkdown content={Reads.ans2_16} />
         </Toggle>
 
         {/* Q17 */}
@@ -326,7 +381,7 @@ export default function N3_t03() {
         ))}
 
         <Toggle title="ans">
-        <RedMarkdown content={Reads.ans_17} />
+        <RedMarkdown content={Reads.ans2_17} />
         </Toggle>
 
         {/* Q18 */}
@@ -337,7 +392,7 @@ export default function N3_t03() {
         ))}
 
         <Toggle title="ans">
-        <RedMarkdown content={Reads.ans_18} />
+        <RedMarkdown content={Reads.ans2_18} />
         </Toggle>
 
         
@@ -351,7 +406,7 @@ export default function N3_t03() {
         ))}
 
         <Toggle title="ans">
-        <RedMarkdown content={Reads.ans_19} />
+        <RedMarkdown content={Reads.ans2_19} />
         </Toggle>
 
         {/* Q20 */}
@@ -362,7 +417,7 @@ export default function N3_t03() {
         ))}
 
         <Toggle title="ans">
-        <RedMarkdown content={Reads.ans_20} />
+        <RedMarkdown content={Reads.ans2_20} />
         </Toggle>
 
         {/* Q21 */}
@@ -373,7 +428,7 @@ export default function N3_t03() {
         ))}
 
         <Toggle title="ans">
-        <RedMarkdown content={Reads.ans_21} />
+        <RedMarkdown content={Reads.ans2_21} />
         </Toggle>
 
         {/* Q22 */}
@@ -384,7 +439,7 @@ export default function N3_t03() {
         ))}
 
         <Toggle title="ans">
-        <RedMarkdown content={Reads.ans_22} />
+        <RedMarkdown content={Reads.ans2_22} />
         </Toggle>
 
         {/* Q23 */}
@@ -395,7 +450,7 @@ export default function N3_t03() {
         ))}
 
         <Toggle title="ans">
-        <RedMarkdown content={Reads.ans_23} />
+        <RedMarkdown content={Reads.ans2_23} />
         </Toggle>
       
       
