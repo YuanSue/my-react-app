@@ -452,6 +452,54 @@ export default function N3_t03() {
         <Toggle title="ans">
         <RedMarkdown content={Reads.ans2_23} />
         </Toggle>
+
+        <RedMarkdown content={Reads.read_2} />
+        {/* Q24 */}
+        {questions.QQ24.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans2_24} />
+        </Toggle>
+
+        <RedMarkdown content={Reads.read_3} />
+        {/* Q25 */}
+        {questions.QQ25.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans2_25} />
+        </Toggle>
+
+        <RedMarkdown content={Reads.read_4} />
+        {/* Q26 */}
+        {questions.QQ26.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans2_26} />
+        </Toggle>
+
+        <RedMarkdown content={Reads.read_5} />
+        {/* Q27 */}
+        {questions.QQ27.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans2_27} />
+        </Toggle>
       
       
       </ul>
