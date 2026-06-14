@@ -655,7 +655,217 @@ export default function N3_t03() {
         <RedMarkdown content={Reads.ans2_27} />
         </Toggle>
       
-      
+        <h5>聽力</h5>
+        <p>Part1</p>
+        {questions.L1_1.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ansL1_1} />
+        </Toggle>
+
+        {questions.L1_2.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ansL1_2} />
+        </Toggle>
+
+
+        {questions.L1_3.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ansL1_3} />
+        </Toggle>
+
+        {questions.L1_4.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ansL1_4} />
+        </Toggle>
+
+
+        {questions.L1_5.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ansL1_1} />
+        </Toggle>
+
+
+        {questions.L1_1.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ansL1_5} />
+        </Toggle>
+
+        {questions.L1_6.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ansL1_6} />
+        </Toggle>
+
+        <p>Part2</p>
+        {questions.L2_1.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ansL2_1} />
+        </Toggle>
+
+        {questions.L2_2.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ansL2_2} />
+        </Toggle>
+
+
+        {questions.L2_3.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ansL2_3} />
+        </Toggle>
+
+        {questions.L2_4.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ansL2_4} />
+        </Toggle>
+
+
+        {questions.L2_5.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ansL2_1} />
+        </Toggle>
+
+
+        {questions.L2_1.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ansL2_5} />
+        </Toggle>
+
+        {questions.L2_6.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ansL2_6} />
+        </Toggle>
+
+        <p>Part3</p>
+        <p>1 ばん</p>
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ansL3_1} />
+        </Toggle>
+
+        <p>2 ばん</p>
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ansL3_2} />
+        </Toggle>
+
+        <p>3 ばん</p>
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ansL3_3} />
+        </Toggle>
+
+        <p>Part5</p>
+        <p>1 ばん</p>
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ansL5_1} />
+        </Toggle>
+
+        <p>2 ばん</p>
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ansL5_2} />
+        </Toggle>
+
+        <p>3 ばん</p>
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ansL5_3} />
+        </Toggle>
+
+        <p>4 ばん</p>
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ansL5_4} />
+        </Toggle>
+
+        <p>5 ばん</p>
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ansL5_5} />
+        </Toggle>
+
+        <p>6 ばん</p>
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ansL5_6} />
+        </Toggle>
+
+        <p>7 ばん</p>
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ansL5_7} />
+        </Toggle>
+
+        <p>8 ばん</p>
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ansL5_8} />
+        </Toggle>
+
+        <p>9 ばん</p>
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ansL5_9} />
+        </Toggle>
+        
       </ul>
 
       {/* <p>{Reads.read_2}</p> */}
