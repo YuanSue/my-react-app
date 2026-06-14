@@ -849,6 +849,7 @@ export default function N3_t02() {
     <div className="font">
       <h3>第二回JLPT 試題review</h3>
       <h5>詞彙問題</h5>
+      <ul>
       {/* Q1 */}
         {questions.Q1.sentences.map((s, i) => (
           <li key={i} className="no-list-style">
@@ -856,89 +857,163 @@ export default function N3_t02() {
           </li>
         ))}
 
-      {/* Q2 */}
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans_1} />
+        </Toggle>
+
+        {/* Q2 */}
         {questions.Q2.sentences.map((s, i) => (
           <li key={i} className="no-list-style">
             <RedMarkdown content={s} />
           </li>
         ))}
 
-      {/* Q3 */}
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans_2} />
+        </Toggle>
+
+        {/* Q3 */}
         {questions.Q3.sentences.map((s, i) => (
           <li key={i} className="no-list-style">
             <RedMarkdown content={s} />
           </li>
         ))}
 
-      {/* Q4 */}
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans_3} />
+        </Toggle>
+
+        {/* Q4 */}
         {questions.Q4.sentences.map((s, i) => (
           <li key={i} className="no-list-style">
             <RedMarkdown content={s} />
           </li>
         ))}
 
-      {/* Q5 */}
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans_4} />
+        </Toggle>
+
+        {/* Q5 */}
         {questions.Q5.sentences.map((s, i) => (
           <li key={i} className="no-list-style">
             <RedMarkdown content={s} />
           </li>
         ))}
 
-      {/* Q6 */}
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans_5} />
+        </Toggle>
+
+        {/* Q6 */}
         {questions.Q6.sentences.map((s, i) => (
           <li key={i} className="no-list-style">
             <RedMarkdown content={s} />
           </li>
         ))}
 
-      {/* Q7 */}
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans_6} />
+        </Toggle>
+
+        {/* Q7 */}
         {questions.Q7.sentences.map((s, i) => (
           <li key={i} className="no-list-style">
             <RedMarkdown content={s} />
           </li>
         ))}
 
-      {/* Q8 */}
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans_7} />
+        </Toggle>
+
+        {/* Q8 */}
         {questions.Q8.sentences.map((s, i) => (
           <li key={i} className="no-list-style">
             <RedMarkdown content={s} />
           </li>
         ))}
 
-      {/* Q9 */}
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans_8} />
+        </Toggle>
+
+        {/* Q9 */}
         {questions.Q9.sentences.map((s, i) => (
           <li key={i} className="no-list-style">
             <RedMarkdown content={s} />
           </li>
         ))}
 
-      {/* Q10 */}
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans_9} />
+        </Toggle>
+
+        {/* Q10 */}
         {questions.Q10.sentences.map((s, i) => (
           <li key={i} className="no-list-style">
             <RedMarkdown content={s} />
           </li>
         ))}
 
-      {/* Q11 */}
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans_10} />
+        </Toggle>
+
+        {/* Q11 */}
         {questions.Q11.sentences.map((s, i) => (
           <li key={i} className="no-list-style">
             <RedMarkdown content={s} />
           </li>
         ))}
 
-      {/* Q12 */}
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans_11} />
+        </Toggle>
+
+        {/* Q12 */}
         {questions.Q12.sentences.map((s, i) => (
           <li key={i} className="no-list-style">
             <RedMarkdown content={s} />
           </li>
         ))}
 
-      {/* Q15 */}
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans_12} />
+        </Toggle>
+
+        {/* Q13 */}
+        {questions.Q13.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans_13} />
+        </Toggle>
+
+        {/* Q14 */}
+        {questions.Q14.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans_14} />
+        </Toggle>
+
+        {/* Q15 */}
         {questions.Q15.sentences.map((s, i) => (
           <li key={i} className="no-list-style">
             <RedMarkdown content={s} />
           </li>
         ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans_15} />
+        </Toggle>
 
         {/* Q16 */}
         {questions.Q16.sentences.map((s, i) => (
@@ -947,12 +1022,20 @@ export default function N3_t02() {
           </li>
         ))}
 
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans_16} />
+        </Toggle>
+
         {/* Q17 */}
         {questions.Q17.sentences.map((s, i) => (
           <li key={i} className="no-list-style">
             <RedMarkdown content={s} />
           </li>
         ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans_17} />
+        </Toggle>
 
         {/* Q18 */}
         {questions.Q18.sentences.map((s, i) => (
@@ -961,12 +1044,20 @@ export default function N3_t02() {
           </li>
         ))}
 
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans_18} />
+        </Toggle>
+
         {/* Q19 */}
         {questions.Q19.sentences.map((s, i) => (
           <li key={i} className="no-list-style">
             <RedMarkdown content={s} />
           </li>
         ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans_19} />
+        </Toggle>
 
         {/* Q20 */}
         {questions.Q20.sentences.map((s, i) => (
@@ -975,12 +1066,20 @@ export default function N3_t02() {
           </li>
         ))}
 
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans_20} />
+        </Toggle>
+
         {/* Q21 */}
         {questions.Q21.sentences.map((s, i) => (
           <li key={i} className="no-list-style">
             <RedMarkdown content={s} />
           </li>
         ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans_21} />
+        </Toggle>
 
         {/* Q22 */}
         {questions.Q22.sentences.map((s, i) => (
@@ -989,10 +1088,14 @@ export default function N3_t02() {
           </li>
         ))}
 
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans_22} />
+        </Toggle>
+
       
 
       <h5>言語知識</h5>
-      <ul>
+      
         {/* QQ1 */}
         {QQ1.sentences.map((s, i) => (
           <li key={i} className="no-list-style">

@@ -246,6 +246,50 @@ Q22 : {
 
 };
 
+export const ans_1 = `正確答案：C`;
+
+export const ans_2 = `正確答案：A`;
+
+export const ans_3 = `正確答案：C`;
+
+export const ans_4 = `正確答案：B`;
+
+export const ans_5 = `正確答案：D`;
+
+export const ans_6 = `正確答案：D`;
+
+export const ans_7 = `正確答案：A`;
+
+export const ans_8 = `正確答案：C`;
+
+export const ans_9 = `正確答案：B`;
+
+export const ans_10 = `正確答案：D`;
+
+export const ans_11 = `正確答案：B`;
+
+export const ans_12 = `正確答案：C`;
+
+export const ans_13 = `正確答案：A`;
+
+export const ans_14 = `正確答案：C`;
+
+export const ans_15 = `正確答案：B`;
+
+export const ans_16 = `正確答案：D`;
+
+export const ans_17 = `正確答案：B`;
+
+export const ans_18 = `正確答案：C`;
+
+export const ans_19 = `正確答案：A`;
+
+export const ans_20 = `正確答案：C`;
+
+export const ans_21 = `正確答案：B`;
+
+export const ans_22 = `正確答案：D`;
+
 export const read_1 = `つぎの文章を読んで、文章全体の内容を考えて、[19] から [23] の中に入る最もよいものを、1・2・3・4から一つえらびなさい。
 今の私たちが「おいしい」と感じるものは、1万年以上前の人も「おいしい」と感じていたのだろうか？この問題の答えを発見した研究者がいます。
 [19] 、1万年以上前の人が持つ（注1）味覚は、現代の私たちと違うということが分かったそうです。
