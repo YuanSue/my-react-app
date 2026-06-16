@@ -14,6 +14,7 @@ export default function JLPT() {
         <Link to="n3t01">N3_t01</Link> |{" "}
         <Link to="n3t02">N3_t02</Link> |{" "}
         <Link to="n3t03">N3_t03</Link> |{" "}
+        <Link to="n3t04">N3_t04</Link> |{" "}
         <Link to="n3_prac">N3_prac</Link> |{" "}
         <Link to="n3_note">N3_note</Link> 
 
