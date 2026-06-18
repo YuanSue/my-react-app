@@ -2,209 +2,209 @@ export const questions = {
 Q1 : {
   sentences: [
     "Q1",
-    "来週から**連休**が始まる。",
-    "A. れんしゅ",
-    "B. りんしゅう",
-    "C. れんしゅう",
-    "D. れんきゅう"
+    "",
+    "A. ",
+    "B. ",
+    "C. ",
+    "D. "
 ]
   },
 
 Q2 : {
   sentences: [
     "Q2",
-    "授業中に**眠って**しまった。",
-    "A. うつって",
-    "B. せって",
-    "C. ほって",
-    "D. ねむって"
+    "",
+    "A. ",
+    "B. ",
+    "C. ",
+    "D. "
 ]
   },
 
 Q3 : {
   sentences: [
     "Q3",
-    "事故が起こらないことを**祈る**ばかりだ。",
-    "A. はかる",
-    "B. いのる",
-    "C. かぎる",
-    "D. かおる"
+    "",
+    "A. ",
+    "B. ",
+    "C. ",
+    "D. "
 ]
   },
 
 Q4 : {
   sentences: [
     "Q4",
-    "この近くは**大型**のトラックがよく走る。",
-    "A. だいけい",
-    "B. だいげい",
-    "C. おおがた",
-    "D. おおかた"
+    "",
+    "A. ",
+    "B. ",
+    "C. ",
+    "D. "
 ]
   },
 
 Q5 : {
   sentences: [
     "Q5",
-    "先週から腕に**痛み**がある。",
-    "A. おもみ",
-    "B. いたみ",
-    "C. ふかみ",
-    "D. からみ"
+    "",
+    "A. ",
+    "B. ",
+    "C. ",
+    "D. "
 ]
   },
 
 Q6 : {
   sentences: [
     "Q6",
-    "0度になると、水が**凍る**。",
-    "A. こおる",
-    "B. こする",
-    "C. ことわる",
-    "D. さびる"
+    "",
+    "A. ",
+    "B. ",
+    "C. ",
+    "D. "
 ]
   },
 
  Q7 : {
   sentences: [
     "Q7",
-    "建物の中も、**外見**もまだ新しい。",
-    "A. そとみ",
-    "B. そとけん",
-    "C. ほかみ",
-    "D. がいけん"
+    "",
+    "A. ",
+    "B. ",
+    "C. ",
+    "D. "
 ]
   },
 
 Q8 : {
   sentences: [
     "Q8",
-    "彼は**優れた**才能を持っている。",
-    "A. はなれた",
-    "B. すぐれた",
-    "C. ゆれた",
-    "D. あばれた"
+    "",
+    "A. ",
+    "B. ",
+    "C. ",
+    "D. "
 ]
   },
 
 Q9 : {
   sentences: [
     "Q9",
-    "外を歩いていたら、**なみだ**が出てきた。",
-    "A. 血",
-    "B. 涙",
-    "C. 汗",
-    "D. 油"
+    "",
+    "A. ",
+    "B. ",
+    "C. ",
+    "D. "
 ]
   },
 
 Q10 : {
   sentences: [
     "Q10",
-    "広場の前に**てら**がある。",
-    "A. 砂",
-    "B. 寺",
-    "C. 歳",
-    "D. 署"
+    "",
+    "A. ",
+    "B. ",
+    "C. ",
+    "D. "
 ]
   },
 
 Q11 : {
   sentences: [
     "Q11",
-    "コンビニで**こうねつ**ひを払う。",
-    "A. 降勢",
-    "B. 光勢",
-    "C. 降熱",
-    "D. 光熱"
+    "",
+    "A. ",
+    "B. ",
+    "C. ",
+    "D. "
 ]
   },
 
 Q12 : {
   sentences: [
     "Q12",
-    "山で鳥が**ないて**いる。",
-    "A. 空いて",
-    "B. 向いて",
-    "C. 届いて",
-    "D. 鳴いて"
+    "",
+    "A. ",
+    "B. ",
+    "C. ",
+    "D. "
 ]
   }, 
 
   Q13 : {
   sentences: [
     "Q13",
-    "仕事に遅れそうなので、急いで**したく**する。",
-    "A. 支度",
-    "B. 試度",
-    "C. 支宅",
-    "D. 試宅"
+    "",
+    "A. ",
+    "B. ",
+    "C. ",
+    "D. "
 ]
   },
 
 Q14 : {
   sentences: [
     "Q14",
-    "明日は**かならず**会社に行く。",
-    "A. 次ず",
-    "B. 必ず",
-    "C. 絶ず",
-    "D. 快ず"
+    "",
+    "A. ",
+    "B. ",
+    "C. ",
+    "D. "
 ]
   },
 
 Q15 : {
   sentences: [
     "Q15",
-    "この場所は（  ）がたくさんあるので、落ちてけがしないように気をつけましょう。",
-    "A. 穴",
-    "B. 丘",
-    "C. 尾",
-    "D. 運"
+    "",
+    "A. ",
+    "B. ",
+    "C. ",
+    "D. "
 ]
   },
 
  Q16 : {
     sentences: [
     "Q16",
-    "勉強をしていたらご飯が冷めてしまったので、電子レンジで（  ）。",
-    "A. 落ち着いた",
-    "B. 完了した",
-    "C. 残した",
-    "D. 温めた"
+    "",
+    "A. ",
+    "B. ",
+    "C. ",
+    "D. "
 ]
   },
 
  Q17 : {
     sentences: [
     "Q17",
-    "怖い夢でも見ているのか、弟はベッドの上で苦しそうに（  ）いる。",
-    "A. うなって",
-    "B. はめて",
-    "C. もうかって",
-    "D. ふいて"
+    "",
+    "A. ",
+    "B. ",
+    "C. ",
+    "D. "
 ]
   },
 
  Q18 : {
     sentences: [
     "Q18",
-    "まだお腹いっぱいにならないので、ご飯をもう一杯（  ）した。",
-    "A. うがい",
-    "B. おまけ",
-    "C. おかわり",
-    "D. いきいき"
+    "",
+    "A. ",
+    "B. ",
+    "C. ",
+    "D. "
 ]
   },
 
  Q19 : {
     sentences: [
     "Q19",
-    "部屋がおもちゃで（  ）いるので、急いで片付けなければならない。",
-    "A. なまけて",
-    "B. 散らかって",
-    "C. ぬれて",
-    "D. 飛び込んで"
+    "",
+    "A. ",
+    "B. ",
+    "C. ",
+    "D. "
 ]
   },
 
@@ -212,33 +212,33 @@ Q15 : {
  Q20 : {
     sentences: [
     "Q20",
-    "彼は長い間厳しい練習を重ねて、（  ）プロの野球選手になれた。",
-    "A. のんびり",
-    "B. はっきり",
-    "C. ぴったり",
-    "D. ついに"
+    "",
+    "A. ",
+    "B. ",
+    "C. ",
+    "D. "
 ]
   },
 
  Q21 : {
     sentences: [
     "Q21",
-    "この地域は、車ではなく電車で（  ）する人が多いらしい。",
-    "A. 無視",
-    "B. 添付",
-    "C. 通勤",
-    "D. 両替"
+    "",
+    "A. ",
+    "B. ",
+    "C. ",
+    "D. "
 ]
   },
 
  Q22 : {
     sentences: [
     "Q22",
-    "この本はかなり昔のものなので、（  ）ページが抜けている。",
-    "A. ふと",
-    "B. ところどころ",
-    "C. なんとか",
-    "D. ばらばら"
+    "",
+    "A. ",
+    "B. ",
+    "C. ",
+    "D. "
 ]
   },
 
@@ -331,57 +331,57 @@ Q15 : {
 
   Q31 : {
     sentences: [
-    "Q31",
-    "こする",
-    "A. 息子は友達と学校でけんかして、手で顔を**こすられて**けがをして帰ってきた。",
-    "B. 外はこんなに寒いのに、手袋を家に忘れてしまったので、両手を**こすって**温めた。",
-    "C. 時間がないので、今日の新聞は必要なところだけを**こすって**読んだ。",
-    "D. 10月なのに汗をかくほど暑いので、エアコンを少しの間だけ**こすった**。"
+    "Q30",
+    "",
+    "A. ",
+    "B. ",
+    "C. ",
+    "D. "
 ]
   },
 
   Q32 : {
     sentences: [
-    "Q32",
-    "勘定（かんじょう）",
-    "A. 毎年私の誕生日になると、祖母が私に**勘定**を送ってくれるので、楽しみだ。",
-    "B. 政府の重要な仕事の一つは、社会を良くするための**勘定**を作ることだ。",
-    "C. 母は**勘定**がとても良く、いくら隠し事をしても、すぐに見つかってしまう。",
-    "D. そろそろ昼休みの時間が終わるので、**勘定**を済ませてレストランを出る。"
+    "Q30",
+    "",
+    "A. ",
+    "B. ",
+    "C. ",
+    "D. "
 ]
   },
 
 
   Q33 : {
     sentences: [
-    "Q33",
-    "相変わらず（あいかわらず）",
-    "A. すごく久しぶりに祖父母の家に行ったが、**相変わらず**元気なようで安心した。",
-    "B. C市に行くには、終点までこのバスに**相変わらず**乗り続けていればいい。",
-    "C. 私は一日中パソコンを使って仕事をしており、**相変わらず**椅子に座っている。",
-    "D. 彼は緑のシャツに黒のズボンと、毎日**相変わらず**服を着ている。"
+    "Q30",
+    "",
+    "A. ",
+    "B. ",
+    "C. ",
+    "D. "
 ]
   },
 
   Q34 : {
     sentences: [
-    "Q34",
-    "あいまい",
-    "A. 今日は太陽が見えないほど雲が空を覆っているので、町は一日中**あいまい**だ。",
-    "B. 野田教授が使っているマイクは壊れているせいか、音が**あいまい**で全然聞こえない。",
-    "C. レストランは混んでいたので、席を知らない客と**あいまい**で座った。",
-    "D. 事故の様子を話してほしいと警察に言われたが、記憶が**あいまいで**思い出せない。"
+    "Q30",
+    "",
+    "A. ",
+    "B. ",
+    "C. ",
+    "D. "
 ]
   },
 
   Q35 : {
     sentences: [
-    "Q35",
-    "気味が悪い（きみがわるい）",
-    "A. 船に乗っているが、すごく揺れるのでだんだん**気味が悪く**なってきた。",
-    "B. 今日は**気味が悪い**せいか、みんな傘を持って出かけているようだ。",
-    "C. 夜になるとこの辺りは電気がなくて真っ暗なので、一人で歩くのは**気味が悪い**。",
-    "D. 嫌いな上司と電車の中で会ってしまい、どんな話をすればいいか分からず**気味が悪い**。"
+    "Q30",
+    "",
+    "A. ",
+    "B. ",
+    "C. ",
+    "D. "
 ]
   },
 
@@ -390,59 +390,57 @@ Q15 : {
    QQ1 : {
     sentences: [
     "Q1",
-    "30年間営業を続けて（　）駅前のデパートが、残念ながら来月閉店することになった。",
-    "A. あった",
-    "B. きた",
-    "C. おいた",
-    "D. すぎた"
+    "",
+    "A. ",
+    "B. ",
+    "C. ",
+    "D. "
 ]
   },
 
   QQ2 : {
     sentences: [
     "Q2",
-    "新しい部屋を借りるため、不動産屋（　）大家さんと契約について話した。",
-    "A. の通りに",
-    "B. を通って",
-    "C. を通して",
-    "D. 通りに"
+    "",
+    "A. ",
+    "B. ",
+    "C. ",
+    "D. "
 ]
   },
 
   QQ3 : {
     sentences: [
     "Q3",
-    "最近は、コンサートのチケットは、インターネット（　）申し込みが一般的だ。",
-    "A. にとっての",
-    "B. のような",
-    "C. による",
-    "D. のための"
+    " ",
+    "A. ",
+    "B. ",
+    "C. ",
+    "D. "
 ]
   },
 
   QQ4 : {
     sentences: [
     "Q4",
-    "このおもちゃは5歳以上の子供（　）に作られているので、赤ちゃんに与えてはいけない。",
-    "A. 向け",
-    "B. 置き",
-    "C. 建て",
-    "D. 宛て"
+    "  ",
+    "A. ",
+    "B. ",
+    "C. ",
+    "D. "
 ]
   },
 
   QQ5 : {
     sentences: [
     "Q5",
-    "（会社で）",
-    "社員A",
-    "「すみません、小林さん。お客様が（　）ので、会議室までお越しください。」",
-    "小林",
-    "「わかりました。今行きます。」",
-    "A. お待たせします",
-    "B. 待たされている",
-    "C. お待ちします",
-    "D. お待ちです"
+    "",
+    "  ",
+    "",
+    "A. ",
+    "B. ",
+    "C. ",
+    "D. "
 ]
   },
 
@@ -806,64 +804,60 @@ Q15 : {
   L1_1 : {
     sentences: [ 
     "1 ばん",
-    "ア.拿飲料",
-    "イ.布置會場",
-    "ウ.並排桌子",
-    "エ.拖地",
-    "1. アエ",
-    "2. アウ",
-    "3. イエ",
-    "4. イウ"
+    "1. ",
+    "2. ",
+    "3. ",
+    "4. "
 ]
   },
 
   L1_2 : {
     sentences: [  
     "2 ばん",
-    "1. 病院（びょういん）でしんだんしょをもうしこむ",
-    "2. むすこを病院（びょういん）でみてもらう",
-    "3. ゆうびんでしんだんしょを送（おく）る",
-    "4. むすこを学校（がっこう）につれていく"
+    "1. ",
+    "2. ",
+    "3. ",
+    "4. "
 ]
   },
 
     L1_3 : {
     sentences: [  
     "3 ばん",
-    "1. レジで会計（かいけい）をすませる",
-    "2. サービスカウンターで店員（てんいん）を待（ま）つ",
-    "3. 店員（てんいん）と店（みせ）の入口（いりぐち）にむかう",
-    "4. ソファを配送（はいそう）する"
+    "1. ",
+    "2. ",
+    "3. ",
+    "4. "
 ]
   },
 
     L1_4 : {
     sentences: [  
     "4 ばん",
-    "1. 12月23日の夕方（ゆうがた）",
-    "2. 12月24日の午前（ごぜん）",
-    "3. 12月24日の午後（ごご）",
-    "4. クリスマスの日"
+    "1. ",
+    "2. ",
+    "3. ",
+    "4. "
 ]
   },
 
     L1_5 : {
     sentences: [  
     "5 ばん",
-    "1. みぶんしょうを見（み）せる",
-    "2. 家に帰（かえ）る",
-    "3. ゆうびんきょくで待（ま）つ",
-    "4. ネットでもう一度（いちど）てつづきをする"
+    "1. ",
+    "2. ",
+    "3. ",
+    "4. "
 ]
   },
 
     L1_6 : {
     sentences: [  
     "6 ばん",
-    "1. 文字（もじ）をへらす",
-    "2. デザインをかえる",
-    "3. 写真（しゃしん）をもっとふやす",
-    "4. ないようをかんたんにする"
+    "1. ",
+    "2. ",
+    "3. ",
+    "4. "
 ]
   },
 
@@ -929,172 +923,152 @@ Q15 : {
 
 };
 
-
-
-export const ans_1 = `正確答案：D
+export const ans_1 = `正確答案：
 `;
 
-export const ans_2 = `正確答案：D
-`;
+export const ans_2 = `正確答案：`;
 
-export const ans_3 = `正確答案：B
-`;
+export const ans_3 = `正確答案：`;
 
-export const ans_4 = `正確答案：C
-`;
+export const ans_4 = `正確答案：`;
 
-export const ans_5 = `正確答案：B
-`;
+export const ans_5 = `正確答案：`;
 
-export const ans_6 = `正確答案：A
-`;
+export const ans_6 = `正確答案：`;
 
-export const ans_7 = `正確答案：D
-`;
+export const ans_7 = `正確答案：`;
 
-export const ans_8 = `正確答案：B
-`;
+export const ans_8 = `正確答案：`;
 
-export const ans_9 = `正確答案：B
-`;
+export const ans_9 = `正確答案：`;
 
-export const ans_10 = `正確答案：B
-`;
+export const ans_10 = `正確答案：`;
 
-export const ans_11 = `正確答案：D
-`;
+export const ans_11 = `正確答案：`;
 
-export const ans_12 = `正確答案：D
-`;
+export const ans_12 = `正確答案：`;
 
-export const ans_13 = `正確答案：A
-`;
+export const ans_13 = `正確答案：`;
 
-export const ans_14 = `正確答案：B
+export const ans_14 = `正確答案：`;
+
+
+export const ans_15 = ` 正確答案：
 `;
 
 
-export const ans_15 = ` 正確答案：A
+export const ans_16 = ` 正確答案：
 `;
 
-
-export const ans_16 = ` 正確答案：D
+export const ans_17 = ` 正確答案：
 `;
 
-export const ans_17 = ` 正確答案：A
+export const ans_18 = ` 正確答案：
 `;
 
-export const ans_18 = ` 正確答案：C
+export const ans_19 = ` 正確答案：
 `;
 
-export const ans_19 = ` 正確答案：B
-`;
-
-export const ans_20 = ` 正確答案：D
+export const ans_20 = ` 正確答案：
 
 `;
 
-export const ans_21 = ` 正確答案：C
+export const ans_21 = ` 正確答案：
 
 `;
 
-export const ans_22 = ` 正確答案：B
+export const ans_22 = ` 正確答案：
 
 `;
 
-export const ans_23 = ` 正確答案：C
+export const ans_23 = ` 正確答案：
 `;
 
-export const ans_24 = ` 正確答案：C
+export const ans_24 = ` 正確答案：
 `;
 
-export const ans_25 = ` 正確答案：A
+export const ans_25 = ` 正確答案：
 `;
 
-export const ans_26 = ` 正確答案：C
-`;
-
-
-export const ans_27 = ` 正確答案：B
-`;
-
-export const ans_28 = ` 正確答案：D
-`;
-
-export const ans_29 = ` 正確答案：B
+export const ans_26 = ` 正確答案：
 `;
 
 
-export const ans_30 = ` 正確答案：A
+export const ans_27 = ` 正確答案：
 `;
 
-export const ans_31 = `正確答案： B
+export const ans_28 = ` 正確答案：
 `;
 
-export const ans_32 = `正確答案： D
-`;
-
-export const ans_33 = `正確答案： A
-`;
-
-export const ans_34 = `正確答案： D
-`;
-
-export const ans_35 = `正確答案： C
+export const ans_29 = ` 正確答案：
 `;
 
 
-export const ans2_1 = ` 正確答案：B
+export const ans_30 = ` 正確答案：
 `;
 
-export const ans2_2 = ` 正確答案：C
+export const ans_31 = `正確答案： `;
+
+export const ans_32 = `正確答案： `;
+
+export const ans_33 = `正確答案： `;
+
+export const ans_34 = `正確答案： `;
+
+export const ans_35 = `正確答案： `;
+
+
+export const ans2_1 = ` 正確答案：
 `;
 
-export const ans2_3 = ` 正確答案：C
+export const ans2_2 = ` 正確答案：
 `;
 
-export const ans2_4 = ` 正確答案：A
+export const ans2_3 = ` 正確答案：
 `;
 
-export const ans2_5 = ` 正確答案：D
+export const ans2_4 = ` 正確答案：
 `;
 
-export const ans2_6 = ` 正確答案：C
+export const ans2_5 = ` 正確答案：
 `;
 
-export const ans2_7 = ` 正確答案：D
+export const ans2_6 = ` 正確答案：
 `;
 
-export const ans2_8 = ` 正確答案：B
+export const ans2_7 = ` 正確答案：
 `;
 
-export const ans2_9 = ` 正確答案：A
+export const ans2_8 = ` 正確答案：
 `;
 
-export const ans2_10 = ` 正確答案：B
+export const ans2_9 = ` 正確答案：
 `;
 
-export const ans2_11 = ` 正確答案：D
+export const ans2_10 = ` 正確答案：
 `;
 
-export const ans2_12 = ` 正確答案：C
+export const ans2_11 = ` 正確答案：
 `;
 
-export const ans2_13 = ` 正確答案：D
+export const ans2_12 = ` 正確答案：
 `;
 
-export const ans2_14 = ` 正確答案：D
+export const ans2_13 = ` 正確答案：
 `;
 
-export const ans2_15 = ` 正確答案：A
+export const ans2_14 = ` 正確答案：
+`;
+
+export const ans2_15 = ` 正確答案：C
 
 `;
 
-export const ans2_16 = ` 正確答案：A
+export const ans2_16 = ` 正確答案：B
 
 `;
 
-export const ans2_17 = ` 正確答案：C
+export const ans2_17 = ` 正確答案：D
 
 `;
 
@@ -1102,7 +1076,7 @@ export const ans2_18 = ` 正確答案：B
 
 `;
 
-export const ans2_19 = ` 正確答案：D
+export const ans2_19 = ` 正確答案：C
 
 `;
 
@@ -1110,7 +1084,7 @@ export const ans2_20 = ` 正確答案：B
 
 `;
 
-export const ans2_21 = ` 正確答案：C
+export const ans2_21 = ` 正確答案：D
 
 `;
 
@@ -1123,11 +1097,11 @@ export const ans2_23 = ` 正確答案：C
 
 `;
 
-export const ans2_24 = ` 正確答案：D
+export const ans2_24 = ` 正確答案：C
 
 `;
 
-export const ans2_25 = ` 正確答案：C
+export const ans2_25 = ` 正確答案：B
 
 `;
 
@@ -1135,25 +1109,25 @@ export const ans2_26 = ` 正確答案：B
 
 `;
 
-export const ans2_27 = ` 正確答案：B
+export const ans2_27 = ` 正確答案：C
 
 `;
 
 
-export const ans2_28 = ` 正確答案：C
+export const ans2_28 = ` 正確答案：B
 
 `;
 
-export const ans2_29 = ` 正確答案：A
+export const ans2_29 = ` 正確答案：C
 
 `;
 
-export const ans2_30 = ` 正確答案：C
+export const ans2_30 = ` 正確答案：A
 
 `;
 
 
-export const ans2_31 = ` 正確答案：B
+export const ans2_31 = ` 正確答案：D
 
 `;
 
@@ -1162,12 +1136,12 @@ export const ans2_32 = ` 正確答案：B
 `;
 
 
-export const ans2_33 = ` 正確答案：D
+export const ans2_33 = ` 正確答案：C
 
 `;
 
 
-export const ans2_34 = ` 正確答案：C
+export const ans2_34 = ` 正確答案：A
 
 `;
 
@@ -1175,7 +1149,7 @@ export const ans2_35 = ` 正確答案：A
 
 `;
 
-export const ans2_36 = ` 正確答案：B
+export const ans2_36 = ` 正確答案：C
 
 `;
 
@@ -1183,15 +1157,15 @@ export const ans2_37 = ` 正確答案：D
 
 `;
 
-export const ansL1_1 = ` 正確答案：4
+export const ansL1_1 = ` 正確答案：2
 
 `;
 
-export const ansL1_2 = ` 正確答案：1
+export const ansL1_2 = ` 正確答案：4
 
 `;
 
-export const ansL1_3 = ` 正確答案：3
+export const ansL1_3 = ` 正確答案：1
 
 `;
 
@@ -1203,11 +1177,11 @@ export const ansL1_5 = ` 正確答案：2
 
 `;
 
-export const ansL1_6 = ` 正確答案：4
+export const ansL1_6 = ` 正確答案：1
 
 `;
 
-export const ansL2_1 = ` 正確答案：4
+export const ansL2_1 = ` 正確答案：3
 
 `;
 
@@ -1215,23 +1189,23 @@ export const ansL2_2 = ` 正確答案：4
 
 `;
 
-export const ansL2_3 = ` 正確答案：2
+export const ansL2_3 = ` 正確答案：3
 
 `;
 
-export const ansL2_4 = ` 正確答案：2
+export const ansL2_4 = ` 正確答案：1
 
 `;
 
-export const ansL2_5 = ` 正確答案：1
+export const ansL2_5 = ` 正確答案：4
 
 `;
 
-export const ansL2_6 = ` 正確答案：3
+export const ansL2_6 = ` 正確答案：2
 
 `;
 
-export const ansL3_1 = ` 正確答案：1
+export const ansL3_1 = ` 正確答案：3
 
 `;
 
@@ -1239,7 +1213,7 @@ export const ansL3_2 = ` 正確答案：1
 
 `;
 
-export const ansL3_3 = ` 正確答案：4
+export const ansL3_3 = ` 正確答案：2
 
 `;
 
@@ -1255,19 +1229,19 @@ export const ansL5_3 = ` 正確答案：3
 
 `;
 
-export const ansL5_4 = ` 正確答案：3
+export const ansL5_4 = ` 正確答案：2
 
 `;
 
-export const ansL5_5 = ` 正確答案：2
+export const ansL5_5 = ` 正確答案：3
 
 `;
 
-export const ansL5_6 = ` 正確答案：3
+export const ansL5_6 = ` 正確答案：1
 
 `;
 
-export const ansL5_7 = ` 正確答案：1
+export const ansL5_7 = ` 正確答案：2
 
 `;
 
@@ -1275,11 +1249,9 @@ export const ansL5_8 = ` 正確答案：2
 
 `;
 
-export const ansL5_9 = ` 正確答案：2
+export const ansL5_9 = ` 正確答案：1
 
 `;
-
-
 
 
 // export const ans_ = ` 正確答案：

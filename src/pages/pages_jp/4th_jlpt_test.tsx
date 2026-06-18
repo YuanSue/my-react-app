@@ -350,6 +350,65 @@ export default function N3_t03() {
         <RedMarkdown content={Reads.ans_30} />
         </Toggle>
 
+        <p>問題5 つぎのことばの使い方として最もよいものを、1・2・3・4から一つえらびなさい。</p>
+        
+        {/* Q31 */}
+        {questions.Q31.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans_31} />
+        </Toggle>
+
+        {/* Q32 */}
+        {questions.Q32.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans_32} />
+        </Toggle>
+
+
+        {/* Q33 */}
+        {questions.Q33.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans_33} />
+        </Toggle>
+
+        {/* Q34 */}
+        {questions.Q34.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans_34} />
+        </Toggle>
+
+        {/* Q35 */}
+        {questions.Q35.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans_35} />
+        </Toggle>
+
+
         <h5>語意問題</h5>
 
         {/* Q1 */}
@@ -707,16 +766,6 @@ export default function N3_t03() {
           </li>
         ))}
 
-        <Toggle title="ans">
-        <RedMarkdown content={Reads.ansL1_1} />
-        </Toggle>
-
-
-        {questions.L1_1.sentences.map((s, i) => (
-          <li key={i} className="no-list-style">
-            <RedMarkdown content={s} />
-          </li>
-        ))}
 
         <Toggle title="ans">
         <RedMarkdown content={Reads.ansL1_5} />
@@ -776,17 +825,6 @@ export default function N3_t03() {
 
 
         {questions.L2_5.sentences.map((s, i) => (
-          <li key={i} className="no-list-style">
-            <RedMarkdown content={s} />
-          </li>
-        ))}
-
-        <Toggle title="ans">
-        <RedMarkdown content={Reads.ansL2_1} />
-        </Toggle>
-
-
-        {questions.L2_1.sentences.map((s, i) => (
           <li key={i} className="no-list-style">
             <RedMarkdown content={s} />
           </li>
