@@ -6,7 +6,7 @@ import {questions} from "../../component/zip_word_jlpt4"
 import RedMarkdown from "../../component/func_mkdown_redpt";
 import Toggle from "../../component/func_toggle_list";
 
-export default function N3_t03() {
+export default function N3_t04() {
   return (
     <div className="font">
       <h3>第四回JLPT 試題review</h3>
@@ -293,6 +293,9 @@ export default function N3_t03() {
         <Toggle title="ans">
         <RedMarkdown content={Reads.ans_25} />
         </Toggle>
+
+        <p>問題4
+          ＿＿＿に意味が最も近いものを、1・2・3・4から一つえらびなさい。</p>
 
         {/* Q26 */}
         {questions.Q26.sentences.map((s, i) => (
