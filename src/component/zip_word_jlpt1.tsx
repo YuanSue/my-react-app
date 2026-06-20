@@ -351,51 +351,51 @@ Q22 : {
 ]
   }
 };
-export const ansL1_1 = ` 正確答案：
+export const ansL1_1 = ` 正確答案：3
 
 `;
 
-export const ansL1_2 = ` 正確答案：
+export const ansL1_2 = ` 正確答案：2
 
 `;
 
-export const ansL1_3 = ` 正確答案：
+export const ansL1_3 = ` 正確答案：4
 
 `;
 
-export const ansL1_4 = ` 正確答案：
+export const ansL1_4 = ` 正確答案：2
 
 `;
 
-export const ansL1_5 = ` 正確答案：
+export const ansL1_5 = ` 正確答案：1
 
 `;
 
-export const ansL1_6 = ` 正確答案：
+export const ansL1_6 = ` 正確答案：3
 
 `;
 
-export const ansL2_1 = ` 正確答案：
+export const ansL2_1 = ` 正確答案：3
 
 `;
 
-export const ansL2_2 = ` 正確答案：
+export const ansL2_2 = ` 正確答案：3
 
 `;
 
-export const ansL2_3 = ` 正確答案：
+export const ansL2_3 = ` 正確答案：2
 
 `;
 
-export const ansL2_4 = ` 正確答案：
+export const ansL2_4 = ` 正確答案：4
 
 `;
 
-export const ansL2_5 = ` 正確答案：
+export const ansL2_5 = ` 正確答案：2
 
 `;
 
-export const ansL2_6 = ` 正確答案：
+export const ansL2_6 = ` 正確答案：3
 
 `;
 
