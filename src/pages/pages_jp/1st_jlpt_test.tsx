@@ -3,7 +3,6 @@ import Toggle from "../../component/func_toggle_list";
 import RedMarkdown from "../../component/func_mkdown_redpt";
 // import ReactMarkdown from "react-markdown";
 import {questions} from "../../component/zip_word_jlpt1"
-
 import * as Reads from "../../component/zip_word_jlpt1";
 
 
