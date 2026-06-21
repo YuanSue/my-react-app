@@ -285,39 +285,33 @@ export default function N3_t01() {
             修正後： どろぼうがこっそり家に入ってきたようだ。（小偷似乎趁半夜悄悄溜進了家門。）<br/>
             </Toggle>
 
-        <li>{q2.word}</li>
-          {q2.sentences.map((s, i) => (
-            <li key={i} className="no-list-style">
-              {i + 1}.{" "}
-              <RedMarkdown content={s} highlights={["ほど"]} />
-            </li>
-          ))}
+        {questions.Q32.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
 
         <Toggle title="ans">
         <RedMarkdown content={ans_2} />
 
         </Toggle>
 
-        <li>{q3.word}</li>
-          {q3.sentences.map((s, i) => (
-            <li key={i} className="no-list-style">
-              {i + 1}.{" "}
-              <RedMarkdown content={s} highlights={["やかまし"]} />
-            </li>
-          ))}
+        {questions.Q34.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
 
         <Toggle title="ans">
         <RedMarkdown content={ans_3} />
         </Toggle>
         
             
-        <li>{q4.word}</li>
-          {q4.sentences.map((s, i) => (
-            <li key={i} className="no-list-style">
-              {i + 1}.{" "}
-              <RedMarkdown content={s} highlights={["真剣"]} />
-            </li>
-          ))}
+        {questions.Q35.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
 
         <Toggle title="ans">
         <RedMarkdown content={ans_4} />
