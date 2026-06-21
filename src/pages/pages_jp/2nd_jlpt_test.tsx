@@ -1,5 +1,5 @@
 import Toggle from "../../component/func_toggle_list";
-import RedMarkdown from "../../component/func_mkdown_redpt";
+import RedMarkdown from "../../component/func_mkdown_set";
 import {questions} from "../../component/zip_word_jlpt2";
 import * as Reads from "../../component/zip_word_jlpt2";
 

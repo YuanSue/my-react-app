@@ -1,5 +1,5 @@
 import Toggle from "../../component/func_toggle_list";
-import RedMarkdown from "../../component/func_mkdown_redpt";
+import RedMarkdown from "../../component/func_mkdown_set";
 // import ReactMarkdown from "react-markdown";
 
 const Q1 = {

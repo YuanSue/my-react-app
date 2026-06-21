@@ -2,7 +2,7 @@
 import * as Reads from "../../component/zip_word_jlpt_note";
 import {questions} from "../../component/zip_word_jlpt_note"
 //import Toggle from "../../component/func_toggle_list";
-import RedMarkdown from "../../component/func_mkdown_redpt";
+import RedMarkdown from "../../component/func_mkdown_set";
 // import Toggle from "../../component/func_toggle_list";
 
 export default function N3_note() {

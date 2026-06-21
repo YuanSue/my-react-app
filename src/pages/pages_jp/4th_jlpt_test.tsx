@@ -3,7 +3,7 @@
 import * as Reads from "../../component/zip_word_jlpt4";
 import {questions} from "../../component/zip_word_jlpt4"
 //import Toggle from "../../component/func_toggle_list";
-import RedMarkdown from "../../component/func_mkdown_redpt";
+import RedMarkdown from "../../component/func_mkdown_set";
 import Toggle from "../../component/func_toggle_list";
 
 export default function N3_t04() {
@@ -717,6 +717,119 @@ export default function N3_t04() {
 
         <Toggle title="ans">
         <RedMarkdown content={Reads.ans2_27} />
+        </Toggle>
+
+                <RedMarkdown content={Reads.read_6} />
+        {/* Q28 */}
+        {questions.QQ28.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans2_28} />
+        </Toggle>
+      
+      {/* Q29 */}
+        {questions.QQ29.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans2_29} />
+        </Toggle>
+
+        {/* Q30 */}
+        {questions.QQ30.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans2_30} />
+        </Toggle>
+
+        <RedMarkdown content={Reads.read_7} />
+        {/* Q31 */}
+        {questions.QQ31.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans2_31} />
+        </Toggle>
+
+        {/* Q32 */}
+        {questions.QQ32.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans2_32} />
+        </Toggle>
+      
+      {/* Q33 */}
+        {questions.QQ33.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans2_33} />
+        </Toggle>
+
+        <RedMarkdown content={Reads.read_8} />
+        {/* Q34 */}
+        {questions.QQ34.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans2_34} />
+        </Toggle>
+
+        {/* Q35 */}
+        {questions.QQ35.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans2_35} />
+        </Toggle>
+      
+      {/* Q36 */}
+        {questions.QQ36.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans2_36} />
+        </Toggle>
+
+       {/* Q37 */}
+        {questions.QQ37.sentences.map((s, i) => (
+          <li key={i} className="no-list-style">
+            <RedMarkdown content={s} />
+          </li>
+        ))}
+
+        <Toggle title="ans">
+        <RedMarkdown content={Reads.ans2_37} />
         </Toggle>
       
         <h5>聽力</h5>
