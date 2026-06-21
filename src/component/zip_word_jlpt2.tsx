@@ -639,98 +639,98 @@ export const read_ch_7 =`
 帶著家人一起來的媽媽也笑著說：『我有三個兒子，每天要煮三人份的飯真的很辛苦。能用這麼便宜的價格吃飽，小孩子們很滿足，我也省事多了（我也輕鬆了）。』
 `;
 
-export const ansL1_1 = ` 正確答案：
+export const ansL1_1 = ` 正確答案：2
 
 `;
 
-export const ansL1_2 = ` 正確答案：
+export const ansL1_2 = ` 正確答案：3
 
 `;
 
-export const ansL1_3 = ` 正確答案：
+export const ansL1_3 = ` 正確答案：3
 
 `;
 
-export const ansL1_4 = ` 正確答案：
+export const ansL1_4 = ` 正確答案：4
 
 `;
 
-export const ansL1_5 = ` 正確答案：
+export const ansL1_5 = ` 正確答案：4
 
 `;
 
-export const ansL1_6 = ` 正確答案：
+export const ansL1_6 = ` 正確答案：2
 
 `;
 
-export const ansL2_1 = ` 正確答案：
+export const ansL2_1 = ` 正確答案：4
 
 `;
 
-export const ansL2_2 = ` 正確答案：
+export const ansL2_2 = ` 正確答案：2
 
 `;
 
-export const ansL2_3 = ` 正確答案：
+export const ansL2_3 = ` 正確答案：2
 
 `;
 
-export const ansL2_4 = ` 正確答案：
+export const ansL2_4 = ` 正確答案：3
 
 `;
 
-export const ansL2_5 = ` 正確答案：
+export const ansL2_5 = ` 正確答案：1
 
 `;
 
-export const ansL2_6 = ` 正確答案：
+export const ansL2_6 = ` 正確答案：4
 
 `;
 
-export const ansL3_1 = ` 正確答案：
+export const ansL3_1 = ` 正確答案：1
 
 `;
 
-export const ansL3_2 = ` 正確答案：
+export const ansL3_2 = ` 正確答案：2
 
 `;
 
-export const ansL3_3 = ` 正確答案：
+export const ansL3_3 = ` 正確答案：3
 
 `;
 
-export const ansL5_1 = ` 正確答案：
+export const ansL5_1 = ` 正確答案：3
 
 `;
 
-export const ansL5_2 = ` 正確答案：
+export const ansL5_2 = ` 正確答案：2
 
 `;
 
-export const ansL5_3 = ` 正確答案：
+export const ansL5_3 = ` 正確答案：2
 
 `;
 
-export const ansL5_4 = ` 正確答案：
+export const ansL5_4 = ` 正確答案：1
 
 `;
 
-export const ansL5_5 = ` 正確答案：
+export const ansL5_5 = ` 正確答案：3
 
 `;
 
-export const ansL5_6 = ` 正確答案：
+export const ansL5_6 = ` 正確答案：2
 
 `;
 
-export const ansL5_7 = ` 正確答案：
+export const ansL5_7 = ` 正確答案：1
 
 `;
 
-export const ansL5_8 = ` 正確答案：
+export const ansL5_8 = ` 正確答案：2
 
 `;
 
-export const ansL5_9 = ` 正確答案：
+export const ansL5_9 = ` 正確答案：3
 
 `;

@@ -444,50 +444,50 @@ export const ansL2_6 = ` 正確答案：3
 
 `;
 
-export const ansL3_1 = ` 正確答案：
+export const ansL3_1 = ` 正確答案：4
 
 `;
 
-export const ansL3_2 = ` 正確答案：
+export const ansL3_2 = ` 正確答案：2
 
 `;
 
-export const ansL3_3 = ` 正確答案：
+export const ansL3_3 = ` 正確答案：3
 
 `;
 
-export const ansL5_1 = ` 正確答案：
+export const ansL5_1 = ` 正確答案：2
 
 `;
 
-export const ansL5_2 = ` 正確答案：
+export const ansL5_2 = ` 正確答案：3
 
 `;
 
-export const ansL5_3 = ` 正確答案：
+export const ansL5_3 = ` 正確答案：3
 
 `;
 
-export const ansL5_4 = ` 正確答案：
+export const ansL5_4 = ` 正確答案：1
 
 `;
 
-export const ansL5_5 = ` 正確答案：
+export const ansL5_5 = ` 正確答案：3
 
 `;
 
-export const ansL5_6 = ` 正確答案：
+export const ansL5_6 = ` 正確答案：2
 
 `;
 
-export const ansL5_7 = ` 正確答案：
+export const ansL5_7 = ` 正確答案：3
 
 `;
 
-export const ansL5_8 = ` 正確答案：
+export const ansL5_8 = ` 正確答案：2
 
 `;
 
-export const ansL5_9 = ` 正確答案：
+export const ansL5_9 = ` 正確答案：1
 
 `;
