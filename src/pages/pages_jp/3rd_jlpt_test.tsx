@@ -819,17 +819,6 @@ export default function N3_t03() {
         ))}
 
         <Toggle title="ans">
-        <RedMarkdown content={Reads.ansL1_1} />
-        </Toggle>
-
-
-        {questions.L1_1.sentences.map((s, i) => (
-          <li key={i} className="no-list-style">
-            <RedMarkdown content={s} />
-          </li>
-        ))}
-
-        <Toggle title="ans">
         <RedMarkdown content={Reads.ansL1_5} />
         </Toggle>
 
