@@ -7,6 +7,7 @@ import N3_t01 from "../pages/pages_jp/1st_jlpt_test";
 import N3_t02 from "../pages/pages_jp/2nd_jlpt_test";
 import N3_t03 from "../pages/pages_jp/3rd_jlpt_test";
 import N3_t04 from "../pages/pages_jp/4th_jlpt_test";
+import N3_t05 from "../pages/pages_jp/5th_jlpt_test";
 import N3_prac from "../pages/pages_jp/practice";
 import N3_note from "../pages/pages_jp/jp_note";
 
@@ -25,6 +26,7 @@ const jlptRoutes = {
     { path: "n3t02", element: <N3_t02 /> } ,
     { path: "n3t03", element: <N3_t03 /> } ,
     { path: "n3t04", element: <N3_t04 /> } ,
+    { path: "n3t05", element: <N3_t05 /> } ,
     { path: "n3_prac", element: <N3_prac /> } ,
     { path: "n3_note", element: <N3_note /> } 
 
