@@ -924,177 +924,203 @@ Q15 : {
 
 };
 
-export const ans_1 = `正確答案：
+export const ans_1 = `正確答案：C
 `;
 
-export const ans_2 = `正確答案：`;
-
-export const ans_3 = `正確答案：`;
-
-export const ans_4 = `正確答案：`;
-
-export const ans_5 = `正確答案：`;
-
-export const ans_6 = `正確答案：`;
-
-export const ans_7 = `正確答案：`;
-
-export const ans_8 = `正確答案：`;
-
-export const ans_9 = `正確答案：`;
-
-export const ans_10 = `正確答案：`;
-
-export const ans_11 = `正確答案：`;
-
-export const ans_12 = `正確答案：`;
-
-export const ans_13 = `正確答案：`;
-
-export const ans_14 = `正確答案：`;
-
-
-export const ans_15 = ` 正確答案：
-`;
-
-
-export const ans_16 = ` 正確答案：
-`;
-
-export const ans_17 = ` 正確答案：
-`;
-
-export const ans_18 = ` 正確答案：
-`;
-
-export const ans_19 = ` 正確答案：
-`;
-
-export const ans_20 = ` 正確答案：
+export const ans_2 = `正確答案：B
 
 `;
 
-export const ans_21 = ` 正確答案：
+export const ans_3 = `正確答案：A
 
 `;
 
-export const ans_22 = ` 正確答案：
+export const ans_4 = `正確答案：C
 
 `;
 
-export const ans_23 = ` 正確答案：
-`;
-
-export const ans_24 = ` 正確答案：
-`;
-
-export const ans_25 = ` 正確答案：
-`;
-
-export const ans_26 = ` 正確答案：
-`;
-
-
-export const ans_27 = ` 正確答案：
-`;
-
-export const ans_28 = ` 正確答案：
-`;
-
-export const ans_29 = ` 正確答案：
-`;
-
-
-export const ans_30 = ` 正確答案：
-`;
-
-export const ans_31 = `正確答案： `;
-
-export const ans_32 = `正確答案： `;
-
-export const ans_33 = `正確答案： `;
-
-export const ans_34 = `正確答案： `;
-
-export const ans_35 = `正確答案： `;
-
-
-export const ans2_1 = ` 正確答案：
-`;
-
-export const ans2_2 = ` 正確答案：
-`;
-
-export const ans2_3 = ` 正確答案：
-`;
-
-export const ans2_4 = ` 正確答案：
-`;
-
-export const ans2_5 = ` 正確答案：
-`;
-
-export const ans2_6 = ` 正確答案：
-`;
-
-export const ans2_7 = ` 正確答案：
-`;
-
-export const ans2_8 = ` 正確答案：
-`;
-
-export const ans2_9 = ` 正確答案：
-`;
-
-export const ans2_10 = ` 正確答案：
-`;
-
-export const ans2_11 = ` 正確答案：
-`;
-
-export const ans2_12 = ` 正確答案：
-`;
-
-export const ans2_13 = ` 正確答案：
-`;
-
-export const ans2_14 = ` 正確答案：
-`;
-
-export const ans2_15 = ` 正確答案：C
+export const ans_5 = `正確答案：D
 
 `;
 
-export const ans2_16 = ` 正確答案：B
+export const ans_6 = `正確答案：D
 
 `;
 
-export const ans2_17 = ` 正確答案：D
+export const ans_7 = `正確答案：B
 
 `;
 
-export const ans2_18 = ` 正確答案：B
+export const ans_8 = `正確答案：C
 
 `;
 
-export const ans2_19 = ` 正確答案：C
+export const ans_9 = `正確答案：C
 
 `;
 
-export const ans2_20 = ` 正確答案：B
+export const ans_10 = `正確答案：C
+`;
+
+export const ans_11 = `正確答案：A
+`;
+
+export const ans_12 = `正確答案：D
+`;
+
+export const ans_13 = `正確答案：B
+`;
+
+export const ans_14 = `正確答案：C
+`;
+
+
+export const ans_15 = ` 正確答案：B
+`;
+
+
+export const ans_16 = ` 正確答案：D
+`;
+
+export const ans_17 = ` 正確答案：A
+`;
+
+export const ans_18 = ` 正確答案：B
+`;
+
+export const ans_19 = ` 正確答案：B
+`;
+
+export const ans_20 = ` 正確答案：D
 
 `;
 
-export const ans2_21 = ` 正確答案：D
+export const ans_21 = ` 正確答案：C
 
 `;
 
-export const ans2_22 = ` 正確答案：A
+export const ans_22 = ` 正確答案：C
+
+`;
+
+export const ans_23 = ` 正確答案：A
+`;
+
+export const ans_24 = ` 正確答案：C
+`;
+
+export const ans_25 = ` 正確答案：B
+`;
+
+export const ans_26 = ` 正確答案：B
+`;
+
+
+export const ans_27 = ` 正確答案：C
+`;
+
+export const ans_28 = ` 正確答案：A
+`;
+
+export const ans_29 = ` 正確答案：B
+`;
+
+
+export const ans_30 = ` 正確答案：D
+`;
+
+export const ans_31 = `正確答案：C
+`;
+
+export const ans_32 = `正確答案：D
+`;
+
+export const ans_33 = `正確答案：A 
+`;
+
+export const ans_34 = `正確答案：B 
+`;
+
+export const ans_35 = `正確答案：B 
+`;
+
+
+export const ans2_1 = ` 正確答案：C
+`;
+
+export const ans2_2 = ` 正確答案：B
+`;
+
+export const ans2_3 = ` 正確答案：D
+`;
+
+export const ans2_4 = ` 正確答案：A
+`;
+
+export const ans2_5 = ` 正確答案：C
+`;
+
+export const ans2_6 = ` 正確答案：C
+`;
+
+export const ans2_7 = ` 正確答案：B
+`;
+
+export const ans2_8 = ` 正確答案：C
+`;
+
+export const ans2_9 = ` 正確答案：D
+`;
+
+export const ans2_10 = ` 正確答案：B
+`;
+
+export const ans2_11 = ` 正確答案：C
+`;
+
+export const ans2_12 = ` 正確答案：B
+`;
+
+export const ans2_13 = ` 正確答案：D
+`;
+
+export const ans2_14 = ` 正確答案：A
+`;
+
+export const ans2_15 = ` 正確答案：D
+
+`;
+
+export const ans2_16 = ` 正確答案：C
+
+`;
+
+export const ans2_17 = ` 正確答案：B
+
+`;
+
+export const ans2_18 = ` 正確答案：C
+
+`;
+
+export const ans2_19 = ` 正確答案：B
+
+`;
+
+export const ans2_20 = ` 正確答案：C
+
+`;
+
+export const ans2_21 = ` 正確答案：B
+
+`;
+
+export const ans2_22 = ` 正確答案：D
 
 `;
 
 
-export const ans2_23 = ` 正確答案：C
+export const ans2_23 = ` 正確答案：A
 
 `;
 
@@ -1102,24 +1128,24 @@ export const ans2_24 = ` 正確答案：C
 
 `;
 
-export const ans2_25 = ` 正確答案：B
+export const ans2_25 = ` 正確答案：C
 
 `;
 
-export const ans2_26 = ` 正確答案：B
+export const ans2_26 = ` 正確答案：D
 
 `;
 
-export const ans2_27 = ` 正確答案：C
+export const ans2_27 = ` 正確答案：B
 
 `;
 
 
-export const ans2_28 = ` 正確答案：B
+export const ans2_28 = ` 正確答案：D
 
 `;
 
-export const ans2_29 = ` 正確答案：C
+export const ans2_29 = ` 正確答案：B
 
 `;
 
@@ -1128,7 +1154,7 @@ export const ans2_30 = ` 正確答案：A
 `;
 
 
-export const ans2_31 = ` 正確答案：D
+export const ans2_31 = ` 正確答案：C
 
 `;
 
@@ -1137,12 +1163,12 @@ export const ans2_32 = ` 正確答案：B
 `;
 
 
-export const ans2_33 = ` 正確答案：C
+export const ans2_33 = ` 正確答案：D
 
 `;
 
 
-export const ans2_34 = ` 正確答案：A
+export const ans2_34 = ` 正確答案：D
 
 `;
 
@@ -1150,7 +1176,7 @@ export const ans2_35 = ` 正確答案：A
 
 `;
 
-export const ans2_36 = ` 正確答案：C
+export const ans2_36 = ` 正確答案：B
 
 `;
 
